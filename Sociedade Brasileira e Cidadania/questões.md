@@ -301,3 +301,104 @@ e) O suicídio, por tratar da retirada da própria vida, é um exemplo sempre re
 
 ### Explicação da questão
 Muito embora o avanço científico tenha como objetivo principal o esclarecimento de certas dúvidas que afligem a humanidade, a ampliação das capacidades humanas propiciada pelas inovações tecnológicas pode levantar novos questionamentos sobre o que seria correto fazer. Assim, respostas para indagações operacionais (como fazer?) podem aumentar a quantidade de questionamentos éticos (é certo fazer?).
+
+# Questão
+Leia a citação a seguir:
+Em meados da segunda metade do século 20, o mundo enfrentou uma mensagem de advertência: a Natureza tem limites. No informe do Clube de Roma ou Relatório Meadows, publicado em 1972, também conhecido como Os limites do crescimento, o planeta foi confrontado com essa realidade indiscutível. O problema daquele relatório, encomendado pelo Massachussetts Institute of Technology, é que previu a chegada de uma série de situações críticas provocadas pelo crescimento econômico [...]./
+A questão é clara: a Natureza não é infinita, tem limites e esses limites estão a ponto de ser superados – se é que já não estão sendo. Assim, o Relatório Meadows, que desatou diversas leituras e suposições, embora não tenha transcendido na prática, plantou uma dupla constatação: não podemos seguir pelo mesmo caminho; necessitamos de análises e respostas globais. (ACOSTA, 2016, p. 114-115)
+
+Essa citação coloca em discussão a ideia de crescimento econômico confrontada com a questão ambiental. Indique qual das opções a seguir está em consonância com a mensagem do autor:
+
+a) O crescimento econômico deve ser considerado uma prioridade absoluta pelas sociedades./
+b) O problema ambiental estará resolvido se cada sociedade se ocupar dele da forma que achar melhor./
+c) A questão ambiental coloca em discussão o crescimento econômico e exige uma resposta política articulada entre os países do globo./
+d) O desenvolvimento garante por si só a proteção ao meio ambiente./
+e) A natureza tem recursos ilimitados e tem uma função meramente provedora de recursos para o desenvolvimento econômico.
+
+Gabarito: C
+
+### Explicação da questão
+Em primeiro lugar, o texto questiona a percepção do crescimento econômico, lei básica do funcionamento das sociedades no capitalismo, como sendo algo absolutamente necessário e que pode garantir a vida e o bem-estar das sociedades no planeta Terra. Em particular, a extração ilimitada de recursos naturais destinados a uma produção crescente de bens confronta-se com a constatação de que “a Natureza não é infinita”. O autor critica, portanto, a defesa irrestrita do crescimento econômico por considerar que essa lógica provoca impactos destrutivos na natureza e nas sociedades.
+
+# Questão
+Leia a citação a seguir:
+Transformações mais significativas somente se mostram possíveis diante do reconhecimento da subjetividade e da “agência” do migrante, revelada nas ações praticadas pelos migrantes, diuturnamente. A cidadania formal baseada no nacionalismo não responde satisfatoriamente as demandas atuais, revelando assim os limites de um instituto calcado no parâmetro nacional-excludente.
+
+À exclusão formal a que estão submetidos os migrantes somam-se as exclusões internas relativas às minorias, de maneira que migrantes indígenas e negros, entre outros grupos vulneráveis, experimentam uma dupla exclusão/marginalização. As demandas de proteção dos direitos humanos dos migrantes buscam conjugar pleitos de igualdade material e igualdade formal, colocando em xeque não apenas os modos de efetivação, mas também o próprio conceito de cidadania e seus contornos. (SGARBOSSA; IENSUE, 2016, p. 70)
+
+Segundo essa citação, a perspectiva das migrações ilumina qual aspecto da cidadania?\
+a) As legislações vigentes contemplam os anseios de representação dos imigrantes.\
+b) A cidadania pensada a partir do princípio do nacional é inclusiva.\
+c) A cidadania reflete uma inclusão formal dos imigrantes.\
+d) A cidadania formal exclui os imigrantes.\
+e) A cidadania formal respeita os direitos das minorias internas ao estado-nação.
+
+**Gabarito: D**
+
+### Explicação da questão
+A citação acusa a exclusão dos imigrantes pelo atual sistema de cidadania baseado nos limites do estado-nação, além de provocar a reflexão de que a cidadania formal não garante, por si, o respeito aos direitos de grupos vulneráveis internos ao estado-nação. É interessante notar que o texto provoca o leitor a refletir sobre como as lógicas de exclusão e de desrespeito à cidadania em relação a grupos internos e a imigrantes caminham juntas. A ideia central é, portanto, que os limites do “nacional” para se pensar o “conceito de cidadania e seus contornos” devem ser revistos.
+
+# Questão
+Leia a citação a seguir:
+No âmbito da sociedade global, os princípios de liberdade, igualdade e propriedade, organizados no contrato, em geral operam-se em termos econômicos. Nasceram e recriam-se continuamente em âmbito local, regional, nacional e transnacional, o jogo das relações de trocas mercantis. São princípios pouco vigentes em termos propriamente políticos, e menos ainda em termos culturais [...]. A soberania do cidadão apenas começa a ser pensada, codificada, se estivermos pensando na sociedade mundial. Nessa altura da história, a cidadania vigente, efetiva, é a da mercadoria. As trocas, o intercâmbio de mercadorias, compreendendo as moedas nacionais, realizam-se sob o signo de uma moeda global. (IANNI, 2008, p. 110)
+
+Essa citação traz em discussão o alto grau de integração no âmbito econômico das sociedades em escala global. Qual resposta corresponde à ideia do autor sobre a globalização?
+
+a) A livre circulação de capitais no globo acompanha o reconhecimento da cidadania para um número maior de pessoas.\
+b) A livre circulação de mercadorias contribui para que a cidadania seja melhor respeitada nos países que não têm indústrias.\
+c) O aumento do número de empresas transnacionais acompanha a criação de instituições para representação dos direitos dos expatriados.\
+d) A utilização do dólar como moeda única é benéfica para todas as sociedades.\
+e) O atual grau de integração da sociedade responde a necessidades econômicas, mas deixa a desejar no aspecto político da cidadania.
+
+Gabarito: E
+
+### Explicação da questão
+A citação sugere uma reflexão crítica sobre a globalização. O autor provoca a reflexão de que a integração das sociedades em nível global, no fundo, obedece primeiro às necessidades econômicas, colocando em segundo plano as dimensões da política e da cultura, sobretudo se considerada a soberania do cidadão.
+
+# Questão
+Conforme Trindade (1998, p. 43),
+O século XVIII tinha todas as razões para ver na razão a potência finalmente capaz de entender a natureza e a sociedade, explicar a própria religião, libertar o homem de seus terrores seculares, desvendar todos os mistérios. Reformar tudo. Os filósofos do Iluminismo fizeram uma audaciosa construção intelectual nesse norte: Hobbes, Locke, Voltaire, Montesquieu, Diderot, Condorcet, Rousseau – só para mencionar algumas das grandes mentes que, malgrado tantas diferenças e divergências entre si, descontruíram metodicamente as estruturas da visão social de mundo do feudalismo. A razão humana, sua ilimitada capacidade de desvendar, de iluminar os fenômenos (daí Iluminismo), poderia moldar o mundo em bases novas, tudo poderia ser revisto e reformado por seu filtro.
+
+Qual das alternativas a seguir se comunica com a orientação cultural que serviu de base para o desenvolvimento do Iluminismo?
+
+a) Como a opinião da maioria da população, ou seja, o senso comum, acredita que a Terra é o centro do Universo, a disciplina da Física não pode trabalhar com uma hipótese contrária.\
+b) O Darwinismo e a teoria evolucionista não são conhecimentos válidos, pois vão contra doutrinas religiosas.\
+c) A forma de se combater os medos, as inseguranças, a fome, as guerras que assolam a sociedade é ter uma crença.\
+d) O homem enxerga melhor a realidade que o circunda e se liberta quando busca o conhecimento científico.\
+e) Os escritos sagrados contêm tudo o que o homem precisa saber. A crença nesses escritos é o único caminho do conhecimento.\
+
+Gabarito: D
+
+### Explicação da questão
+A citação apresentada discute a centralidade da razão no Iluminismo. A ideia de iluminar o desenvolvimento dos seres humanos e das sociedades acompanhava um projeto apoiado na razão. Isso não significa, obviamente, que as outras fontes de conhecimento fossem totalmente desprezadas. No entanto, o objetivo era transformar a visão de mundo das pessoas, que, até então, era demasiadamente baseada na religião e na tradição.
+
+# Questão
+Leia a citação a seguir:
+“Me apontou um revólver e mandou eu tirar a roupa”. “Jamais pensei que ele fosse me currar”. “Gritou para eu parar de chorar e tirou minha roupa devagar, com a maior cara de sacana”. Estes são alguns dos depoimentos registrados nos autos dos processos judiciais dos crimes contra os costumes, arquivados nos foros e tribunais brasileiros. (DA SILVA, 1985, p. 74)
+O enunciado ilustra atos cometidos contra mulheres no Brasil que não foram enquadrados como crime pelos tribunais penais na década de 1970 e início dos anos 1980. O que a ótica dos tratados internacionais ilumina sobre esse mesmo caso?
+a) Não há previsão desse crime pelos tratados internacionais já que o poder masculino é irrestrito e legítimo, em nível global e em todas as suas formas de manifestação.
+b) Sob a ótica dos tratados internacionais, as falas não enquadram nenhum tipo de crime, pois essas mulheres estavam trabalhando na rua com roupas indecorosas e provocaram os homens que passavam no local.
+c) Nos tratados internacionais, o crime descrito se enquadra como um crime contra os direitos humanos.
+d) Segundo os tratados internacionais, a lei do país onde esse ato foi praticado tem prioridade para aplicar o princípio de que as mulheres são objeto do homem.
+e) Segundo os tratados internacionais, esse crime só deve ser punido caso seja comprovado que essas mulheres tinham uma conduta moral e familiar adequadas.
+
+Gabarito: C
+
+### Explicação da questão
+Em primeiro lugar, é necessário entender de quem são essas falas. Tratam-se de depoimentos, como o próprio texto indica, de mulheres que sofreram abuso sexual, entraram com processos na justiça, porém sem êxito. A autora oferece uma crítica de que a legislação penal, a jurisprudência e a doutrina penal, além dos próprios costumes do período, eram orientados pelo princípio da dominação masculina sobre o corpo da mulher. Por isso, esses processos-crimes, segundo a autora, foram arquivados. No entanto, embora o crime não tenha sido reconhecido no Brasil, sob a ótica do Direito Internacional pode ser enquadrado como um crime contra os direitos humanos, segundo os tratados internacionais.
+
+# Questão
+Leia este texto:
+No dia 16 de dezembro de 2013, um vídeo feito através de um telefone celular, por um imigrante detido no Centro de Primeiros Socorros e Acolhimento (CPSA), na ilha italiana de Lampedusa, revelou imagens impactantes, que evocam atos trágicos ocorridos na Europa na história recente. As imagens obtidas pelo jovem sírio registram o tratamento anti-sarna ao qual são submetidos os estrangeiros ali confinados: tratados “como animais”, expostos ao frio intenso, nus e seminus, estes indivíduos, no pátio externo do centro, foram pulverizados com jatos de desinfecção enquanto um agente de segurança organizava e orientava a operação "com a brutalidade de um kapo" (RIVERA, 2013, p.01), uma prática cuja ocorrência é semanal.
+A forma do tratamento, assim como a estética do centro, que funciona simultaneamente como centro de acolhimento e centro de detenção, e do processo de desinfecção, foram evidenciadas a partir da veiculação ao nível mundial do referido vídeo, forçando o posicionamento de diversos líderes políticos, italianos e europeus, sobre a função e os objetivos destes espaços. Tais figuras políticas, que até então apoiavam e fomentavam a edificação e multiplicação destes centros, manifestaram-se pública e criticamente com relação a estes espaços ao mesmo tempo em que parte da mídia passou a utilizar a palavra alemã lager para caracterizá-los, em referência aos campos de concentração e extermínio da Alemanha nazista e aos processos de desumanização aos quais os prisioneiros foram submetidos. Enquanto diversos ativistas, movimentos sociais, organizações internacionais, intelectuais e expoentes políticos já alertavam para o caráter violento, concentracionário, dos centros italianos há pelo menos duas décadas, tanto os sucessivos governos quanto a mídia em geral caracterizavam tais afirmações como exageradas, inadequadas, infundadas ou equivocadas. (GARCIA, 2016, p. 20-21)
+Quando a autora se refere a afirmações “consideradas como exageradas, inadequadas, infundadas ou equivocadas”, está discutindo:
+a) A forma como a mídia apresenta o aumento da imigração na Itália, como se fosse uma invasão, pelo seu alto volume.
+b) A multiplicação das prisões na Europa, que, embora tenham sido construídas nos últimos anos para deter os imigrantes, são instituições ainda marginais.
+c) O caráter de exceção das medidas punitivas aplicadas contra os imigrantes, que são muito mais violentas, comparadas às aplicadas em prisões para os nacionais, e sem amparo nos direitos humanos.
+d) As acusações de que o nazismo foi um regime mortífero que cometeu o crime de genocídio contra os judeus e outros grupos sociais, além de crimes de guerra.
+e) O risco de morte dos imigrantes na travessia do Mar Mediterrâneo para a Itália, que se mostra segura, apesar do aumento dos índices de mortes nos últimos anos.
+
+Gabarito: C
+
+### Explicação da questão
+O texto provoca a reflexão sobre a pertinência ou não de se afirmar que as técnicas de governo dos imigrantes e refugiados nos Centros de Primeiros Socorros e Acolhimento na Itália são equivalentes àquelas utilizadas pelo regime nazista nos campos de concentração. Repare que todas as palavras colocadas entre aspas se referem a terminologias que são usualmente utilizadas para caracterizar esses campos (lager, kapo). Portanto, a polêmica é sobre o caráter de “normalidade” das medidas de segurança aplicadas contra os imigrantes e refugiados ou sobre o de “exceção”. Neste último caso, a comparação ao nazismo coloca essas técnicas fora dos parâmetros do que é geralmente aplicado nas outras prisões em relação aos próprios italianos detentos.
