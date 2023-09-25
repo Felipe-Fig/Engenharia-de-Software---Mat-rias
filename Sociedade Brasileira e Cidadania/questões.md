@@ -405,3 +405,60 @@ e) O risco de morte dos imigrantes na travessia do Mar Mediterrâneo para a Itá
 
 ### Explicação da questão
 O texto provoca a reflexão sobre a pertinência ou não de se afirmar que as técnicas de governo dos imigrantes e refugiados nos Centros de Primeiros Socorros e Acolhimento na Itália são equivalentes àquelas utilizadas pelo regime nazista nos campos de concentração. Repare que todas as palavras colocadas entre aspas se referem a terminologias que são usualmente utilizadas para caracterizar esses campos (lager, kapo). Portanto, a polêmica é sobre o caráter de “normalidade” das medidas de segurança aplicadas contra os imigrantes e refugiados ou sobre o de “exceção”. Neste último caso, a comparação ao nazismo coloca essas técnicas fora dos parâmetros do que é geralmente aplicado nas outras prisões em relação aos próprios italianos detentos.
+
+# Questão
+Leia os trechos de reportagem a seguir:
+
+O número de candidatas eleitas neste domingo (7) para deputada federal aumentou. A bancada feminina, até então composta por 53 parlamentares, agora terá 77 integrantes, o que representa 15% das 513 vagas na Câmara de Deputados, o percentual era de 10. (BRANDINO, G. et al. Percentual de mulheres eleitas para a Câmara cresce de 10% para 15%. Folha de São Paulo, [S.l.], 8 out. 2018)\
+Dentre as 1626 vagas para deputados distritais, estaduais, federais e senador, apenas 65 foram preenchidas por candidatos que se autodeclaram pretos nas eleições 2018. Eles são 4% dos eleitos neste ano. (DANTAS, C.; GELAPE, L. Apenas 4% dos candidatos eleitos para cargos de senador e deputado estadual e federal são pretos. Folha de São Paulo, [S.l.], 9 out. 2018)
+
+As reportagens de jornais descrevem um cenário de eleições no qual:
+
+a) O reconhecimento das diferenças foi plenamente contemplado.\
+b) O equilíbrio de poder político entre os diferentes grupos sociais foi garantido.\
+c) As desigualdades sofridas pelas mulheres e pelos negros na sociedade brasileira estão refletidas.\
+d) O aumento exponencial da presença de mulheres na Câmara de Deputados sinaliza o fim das desigualdades de gênero no Brasil.\
+e) O número de negros eleitos para deputados distritais, estaduais, federais e senador comprovam que o Brasil é uma democracia racial.
+
+**Gabarito: C**
+
+### Explicação da questão
+A baixa representação de mulheres e negros nos resultados das eleições de 2018 no Brasil apenas confirma a persistência das desigualdades que atingem fortemente esses grupos sociais. Os cargos políticos representam posições de prestígio e de poder na sociedade – em que são decididas leis e políticas que têm reflexos na sociedade. Esses resultados eleitorais evidenciam que esses cargos continuam a serem ocupados na sua grande maioria por homens. A presença marginal de mulheres e negros em cargos públicos torna, portanto, ainda mais difícil a implementação de políticas de inclusão para agir nas desigualdades que os atingem.
+
+# Questão
+Conforme Silva (2017, p. 17),
+Tem sido tão difícil admitir, nos meios acadêmicos e entre a denominada elite, que grupos populares, empobrecidos, negros ou indígenas, possam fazer parte desse lugar que produz cultura e conhecimento tão valorizados pela sociedade. É como se empobrecidos, negros, indígenas fossem contaminar a sociedade ou fossem incapazes de participar da produção de tão valiosos conhecimentos. Até se admite que eles sejam capazes, desde que aceitem esquecer sua base originária. Essa é uma questão bastante séria, a dos critérios da meritocracia, no sentido de decidir quem poderia ou não participar da comunidade universitária, produzir conhecimentos científicos.
+
+Considerando a questão da implementação das políticas de cotas raciais no ensino superior no Brasil, assinale a alternativa correta.
+
+a) O Brasil é o único país no mundo que implementou essas políticas para agir nas desigualdades historicamente produzidas, que afetam particularmente determinados grupos sociais.\
+b) As culturas que são contempladas pelas políticas de cotas raciais não têm uma base científica, portanto devem estar fora das universidades.\
+c) O reconhecimento das culturas dos grupos sociais beneficiários das políticas de cotas raciais é um pressuposto para a implementação das políticas de cotas raciais.\
+d) Apenas critérios meritocráticos podem garantir a excelência do ensino e da produção do conhecimento nas universidades.\
+e) O contato com a diversidade cultural empobrece o universo de raciocínio dos estudantes e professores.
+
+**Gabarito: C**
+
+### Explicação da questão
+A frase do enunciado insere-se no contexto do debate político sobre as cotas e ações afirmativas. Perceba que a autora descreve os estereótipos não com o intuito de reproduzir esses preconceitos sem nenhuma base científica, mas de fazer uma crítica a argumentos que são mobilizados contra essa política inclusiva. O não reconhecimento das diferenças está no centro da argumentação da autora em prol dessa política. Conforme deixa explícito o texto, a universidade e a sociedade brasileira saem perdendo se essas culturas não são reconhecidas e não podem se desenvolver no âmbito de atividades de produção científica nas universidades.
+
+# Questão
+Segundo Habermas (1997, p. 298),
+Em toda a Europa aumentam as reações radicais da direita contra a infiltração de estrangeiros. As camadas menos ricas – ameaçadas pelo descenso ou já marginalizadas – identificam-se claramente com a supremacia ideologizada de sua própria coletividade, rejeitando tudo o que é estrangeiro. Este é o outro lado do chauvinismo do bem-estar, que cresce em todas as partes. De sorte que o “problema dos refugiados” traz novamente à tona a tensão latente entre cidadania e identidade nacional.
+
+“A tensão latente entre cidadania e identidade nacional”, referida pelo autor, pode ser aplicada no seguinte caso:
+
+a) No acolhimento de imigrantes e refugiados que parte do princípio do reconhecimento de suas culturas e línguas.\
+b) No reconhecimento da cidadania dos imigrantes e refugiados, a despeito de terem entrado pelas fronteiras, sem o visto.\
+c) No acesso à educação e aos serviços de saúde que são direitos fundamentais estendidos a todos os seres humanos que se encontram no território nacional.\
+d) No entendimento de que a democracia e a cidadania não se limitam ao território nacional, mas articulam-se à dimensão internacional.\
+e) Na afirmação de que a cidadania tem base tão somente nacional e que a exclusão das diferenças garante a efetividade dos direitos fundamentais para os próprios nacionais.
+
+**Gabarito: E**
+
+### Explicação da questão
+- A: Como o enunciado explicita, os grupos sociais que sofrem um rebaixamento das suas condições de vida tendem a reproduzir uma ideologia, sem base na realidade, de que os culpados são os estrangeiros que vêm de fora do território por serem “concorrentes” no acesso aos direitos. Assim, as culturas e as línguas dos imigrantes e refugiados não são reconhecidas.
+- B: Como o enunciado explicita, os grupos sociais que sofrem um rebaixamento das suas condições de vida tendem a reproduzir uma ideologia, sem base na realidade, de que os culpados são os estrangeiros que vêm de fora do território por serem “concorrentes” no acesso aos direitos. Assim, os imigrantes e refugiados não têm sua cidadania reconhecida.
+- C: Como o enunciado explicita, os grupos sociais que sofrem um rebaixamento das suas condições de vida tendem a reproduzir uma ideologia, sem base na realidade, de que os culpados são os estrangeiros que vêm de fora do território por serem “concorrentes” no acesso aos direitos. Assim, os imigrantes e refugiados têm dificuldades no acesso à educação e aos serviços de saúde.
+- D: “A tensão latente entre cidadania e identidade nacional” revela a concepção de que a democracia e a cidadania estariam, sim, limitadas ao território nacional.
+- **E (correta)**: O autor traz em discussão uma lógica que acompanha o nascimento e desenvolvimento dos Estados-nação, ou seja, a ideia de que a cidadania se limita apenas ao território nacional. Sua teoria afasta completamente essa ideia, evidenciando como a democracia e o Direito pressupõem o reconhecimento das diferenças. A crítica sugerida pela citação é a de que a exclusão não é um parâmetro de garantia de diretos, pelo contrário, quanto mais extensivo é o alcance de um direito na sociedade, mais ele estará garantido.
