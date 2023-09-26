@@ -462,3 +462,162 @@ e) Na afirmação de que a cidadania tem base tão somente nacional e que a excl
 - C: Como o enunciado explicita, os grupos sociais que sofrem um rebaixamento das suas condições de vida tendem a reproduzir uma ideologia, sem base na realidade, de que os culpados são os estrangeiros que vêm de fora do território por serem “concorrentes” no acesso aos direitos. Assim, os imigrantes e refugiados têm dificuldades no acesso à educação e aos serviços de saúde.
 - D: “A tensão latente entre cidadania e identidade nacional” revela a concepção de que a democracia e a cidadania estariam, sim, limitadas ao território nacional.
 - **E (correta)**: O autor traz em discussão uma lógica que acompanha o nascimento e desenvolvimento dos Estados-nação, ou seja, a ideia de que a cidadania se limita apenas ao território nacional. Sua teoria afasta completamente essa ideia, evidenciando como a democracia e o Direito pressupõem o reconhecimento das diferenças. A crítica sugerida pela citação é a de que a exclusão não é um parâmetro de garantia de diretos, pelo contrário, quanto mais extensivo é o alcance de um direito na sociedade, mais ele estará garantido.
+
+# Questão
+Segundo a ciência, o fenômeno da pobreza – e da fome decorrente dela – é produzido pelas relações socioeconômicas, sendo possível identificar – e enfrentar – suas causas objetivas. O conhecimento produzido pelas diferentes ciências sociais – a partir de método e evidências–, como a economia, a sociologia e a ciência política, concordam com o pressuposto de que a fome é um problema que passa por escolhas políticas e econômicas dos governos e da sociedade, podendo, assim, ser combatida por políticas públicas e pela ação da sociedade.
+
+A respeito da pobreza, analise cada uma das afirmativas, julgando-as em V (verdadeiro) ou F (falsa):
+
+(__) Para José Graziano da Silva, diretor geral da Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), e para Adolfo Pérez Esquivel, Prêmio Nobel da Paz e membro da Aliança da FAO pela Segurança Alimentar e Paz, a fome é, na verdade, um crime que alimenta conflitos mais graves nas sociedades e ameaça apaz mundial
+
+(__) Conforme Chossudovsky (1999), a pobreza é um fenômeno global e atinge com mais força os países do Sul Global, sendo que seu traço característico é o de aniquilar a subsistência humana, ou seja, a possibilidade de sobrevivência das pessoas, destruindo sociedades inteiras. Na década de 1990 e esse quadro não se modificou nos anos 2000; pelo contrário, só tem se acentuado.
+
+(__) A estabilidade da concentração de renda no topo no Brasil é preocupante porque os níveis são muito altos para padrõs internacionais. Ainda que comparações internacionais sejam sempre imperfeitas e a amostra seja enviesada em prol de países mais ricos, o Brasil é claramente um ponto fora da curva. Somos um entre apenas cinco países – com a África do Sul, Argentina, Colômbia e Estados Unidos – em que o 1 por cento mais rico recebe mais de 15 por cento da renda total.
+
+(__) No século XXI a estrutura das desigualdades de renda e de riqueza no Brasil não foi modificada. Isso ajuda a entender por que os efeitos da crise global agravaram com tamanha rapidez a miséria. Esse agravamento, é claro, não está separado de escolhas políticas que, ao contrário de agir nas causas da miséria, a acentua.
+
+Assinale a alternativa que apresenta a sequência correta:
+
+Alternativas:
+
+a) V-V-V-F.
+b) V-V-F-V.
+c) V-F-V-V.
+d) F-V-V-V.
+e) V-V-V-V.
+
+**Gabarito: E**
+
+### Explicação da questão
+Existem diversos aspectos que explicam e definem o fenômeno da pobreza, entre eles a sua relação direta com escolhas políticas e econômicas, a concentração de renda e a perpetuação da desigualdade social. Com base nisso, podemos afirmar que todas as asserções estão corretas (Alternativa E).
+Entendendo o Fenômeno da Pobreza
+O fenômeno da pobreza é uma condição socioeconômica caracterizada pela falta de recursos e acesso a necessidades básicas, como alimentação adequada, moradia, saúde e educação.
+É um problema complexo que afeta milhões de pessoas em todo o mundo, resultante de relações socioeconômicas desiguais, escolhas políticas e estruturas de poder, não se restringindo apenas à falta de renda, mas também engloba a privação de oportunidades e a exclusão social.
+Por isso dizemos que o fenômeno da pobreza é multidimensional que perpetua desigualdades e limita o desenvolvimento humano, representando um desafio a ser enfrentado por meio de políticas públicas, investimentos sociais e ações coletivas.
+
+# Questão
+O fato de o racismo ser considerado crime no Brasil, com penalidades previstas em lei, parece não mais intimidar os ímpetos racistas latentes em nossa sociedade. As redes sociais certamente são os lugares em que esse temor se desfaz com menos pudor, mas, para além das telas, a realidade no Brasil também tem sido permeada de duras manifestações racistas por meio de xingamentos, humilhações de todo tipo, pichações, violência psicológica e física contra os negros e outros grupos vitimados por esse fenômeno.
+
+Racismo pressupõe diferença e hierarquia entre as "raças" branca, negra e amarela do gênero humano. Um requisito básico para enfrentarmos essa questão é nos basearmos na formação histórica desse fenômeno e sua imbricação com as desigualdades produzidas e reproduzidas no país.
+
+Acerca do racismo, analise as afirmativas:
+
+I. A estrutura racializada da sociedade brasileira tem suas raízes no sistema colonial, em particular na escravidão que vigorou por quase quatro séculos no Brasil. Isso significa que as raízes históricas do racismo são antigas e profundas.
+
+II. O racismo não é algo natural, que deve ser considerado uma "essência" imutável do funcionamento da sociedade brasileira e de sua mentalidade predominante. Pelo contrário, foi construído historicamente por relações sociais, e da mesma forma que se reproduz no tempo, também pode ser combatido.
+
+III. A relação dos colonos portugueses com os indígenas é o primeiro terreno histórico para pensarmos a estruturação do racismo no Brasil. Longe de assumir uma base igualitária, apoiou-se na construção das diferenças e hierarquias demarcadas em relação aos costumes, culturas, línguas, religiosidades dos nossos povos originários.
+
+IV. A história do Brasil começou com o "descobrimento" dos portugueses, havendo imensos vazios demográficos no solo que hoje pertence ao território brasileiro, daí a necessidade de pioneiros que instaurassem as primeiras vilas populacionais e promovessem a colonização.
+
+Assinale a alternativa correta: 
+
+Alternativas:
+
+a)
+Estão corretas apenas as afirmativas I, II e III.
+b)
+Estão corretas apenas as afirmativas I, II e IV.
+c)
+Estão corretas apenas as afirmativas I, III e IV.
+d)
+Estão corretas apenas as afirmativas II, III e IV.
+e)
+Estão corretas todas as afirmativas I, II, III e IV.
+
+
+**Gabarito: A**
+
+# Questão
+Estudos variados têm mostrado os impactos perversos da atual crise na oferta e na qualidade do emprego no Brasil, situação que foi agravada pelas políticas e reformas legislativas recentemente aplicadas (KREIN; GIMENEZ; SANTOS, 2018).
+
+Acerca do desemprego no Brasil, analise cada uma das afirmativas, julgando-as em V (verdadeiro) ou F (falsa):
+
+(__) O tipo de trabalho majoritariamente ofertado hoje evidencia a multiplicação dos minijobs (empregos precários), empregos temporários, sem garantias e sem direitos, com baixos salários, jornadas longas, flexíveis e intensas.
+
+(__) A explosão da terceirização no Brasil contribui para o quadro da pobreza, já que terceirizados ganham menos e são mais desprotegidos em relação a direitos e proteção social.
+
+(__) A maior parte da sociedade brasileira hoje depende de um salário para sobreviver, portanto, é importantíssimo que a qualidade do emprego não seja negligenciada.
+
+(__) Para um país mais igualitário, devemos considerar também a importância das políticas sociais e de combate à fome. Sem essas iniciativas e essas políticas, certamente caminharemos para uma sociedade cada vez mais desigual, conflituosa e violenta.
+
+Assinale a alternativa que apresenta a sequência correta:
+
+Alternativas:
+
+a)
+V-V-V-F.
+b)
+V-V-F-V.
+c)
+V-F-V-V.
+d)
+F-V-V-V.
+e)
+V-V-V-V.
+
+**Gabarito: E**
+
+# Questão
+Sobre a concepção de democracia segundo o filósofo Antigo, Platão (428/427 a.C. – 348/347 a.C.), julgue em V (verdadeiro) ou F (falso) cada uma das afirmativas:
+
+(__) As reflexões políticas deveriam questionar qual seria a melhor forma de governo, a exemplo da perfeita – e fictícia – república de Callipolis.
+
+(__) Mais do que pensar quantitativamente como seria estabelecido o governo – se com apenas um, alguns ou vários governantes –, a filosofia política deve obrigatoriamente levar em conta aspectos relacionados aos¿valores de um sistema,
+
+(__) A busca pela justiça deveria orientar a condução das cidades-estados, as unidades políticas típicas da Grécia Antiga.
+
+(__) Em um plano ideal, os governantes deveriam ser indivíduos cujas "almas superiores" fossem capazes de, racionalmente, buscar o bem comum vinculado à ideia de justiça, homens cujas virtudes e educação específicas os tornassem aptos para exercer o comando de uma comunidade, de modo puro e honrado: trata-se dos sábios, dos "filósofos-reis".
+
+Assinale a alternativa que apresenta a sequência correta:
+
+Alternativas:
+
+a)
+V-V-V-F.
+b)
+V-V-F-V.
+c)
+V-F-V-V.
+d)
+F-V-V-V.
+e)
+V-V-V-V.
+
+**Gabarito: E**
+
+# Questão
+Desde oséculo XVII, o desenvolvimento de novas concepções acerca da titularidade de direitos civis e políticos, expandindo a categoria de indivíduos considerados capacitados para a atuação pública, apresentou impacto na compreensão do conceito de democracia, motivo pelo qual nos remetemosao surgimento dos ideais liberais e de questionamento dos Estados absolutistas europeus.
+
+Nesse período da história, três processos políticos e sociais podem ser elencados como determinantes para a ressignificação do Estado, das prerrogativas individuais e, consequentemente, do aspecto democrático da era moderna.
+
+Associe corretamente cada um desses três processos políticos à sua respectiva caracterização:
+
+1. Revolução Inglesa
+
+2. Revolução Americana
+
+3. Revolução Francesa
+
+(__) Ocorrida em 1776, exerceu fundamental importância para a afirmação das ideias de supremacia da vontade popular, da liberdade de associação e do estabelecimento de mecanismos de controle permanente sobre o governo, conforme defendido por Thomas Jefferson (1743-1826).
+
+(__) Em 1789, centralizou interesses diversos sob a ideia de nação e estabelece importantes preceitos acerca da separação entre a política e a religião, ampliando o alcance dos homens nascidos livres e iguais em direitos.
+
+(__) De 1640-1688, sob forte influência do pensamento de John Locke (1632-1704), foi essencial para a limitação do poder absoluto das monarquias absolutistas, e está relacionada ao processo de consolidação de direitos naturais dos indivíduos, nascidos livres e iguais, capazes, portanto, de exercer o poder político nas formas a serem determinadas por lei, a exemplo do Bill of Rights ("Carta de direitos") de 1689.
+
+Assinale a alternativa que apresenta a associação correta:
+
+Alternativas:
+
+a)
+3-2-1.
+b)
+3-1-2.
+c)
+2-3-1.
+d)
+2-1-3.
+e)
+1-3-2.
+
+**Gabarito: C**
