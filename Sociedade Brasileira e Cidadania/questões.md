@@ -685,6 +685,7 @@ e) O alto percentual de entrevistados que não sabia responder à pergunta ou n�
 # Questão
 Observe o gráfico a seguir:
 
+![imagem2](https://github.com/Felipe-Fig/Engenharia-de-Software---Mat-rias/blob/main/Sociedade%20Brasileira%20e%20Cidadania/SCR-20230926-nlys.png)
 Aumento no número de grandes propriedades rurais nos anos 2000
 
 O gráfico mostra que em 2003 havia 4.288.672 propriedade rurais. Desse total, 9,4% são minifúndios; 17,8% são pequenas propriedades; 21,2% são médias propriedades; e 51,6% são grandes propriedades. Já em 2010, havia 5.167.476 propriedades rurais. Desse total, 8,2% são minifúndios; 15,6% são pequenas propriedades; 20% são médias propriedades; e 56,1% são grandes propriedades.
@@ -709,5 +710,66 @@ e) As tendências para o futuro apontam para um decrescimento das grandes propri
 - C: De acordo com o gráfico, o número de estabelecimentos rurais aumentou entre os anos de 2003 e 2010. Porém, esse crescimento foi impulsionado pelas grandes propriedades. Isso não evidencia a tendência de efetivação da reforma agrária no Brasil.
 - D: Constata-se pelo gráfico que, apesar de o número de estabelecimentos rurais entre os anos de 2003 e 2010 ter aumentado, esse crescimento foi impulsionado pelas grandes propriedades. O problema secular de concentração de terras, que marca a história moderna do Brasil, não foi interrompido no início do século XXI. Essa questão relaciona-se diretamente com o problema da miséria rural e urbana no Brasil, por também significar concentração de renda e um modelo produtivo baseado na monocultura com uma estrutura de ocupações numericamente restritas e caracterizadas por baixos salários, entre outros fatores.
 - E: Pelos dados apresentados, não é possível afirmar que, no futuro, haverá um decréscimo no número de grandes propriedades rurais.
+
+# Questão
+Leia o trecho a seguir:
+
+Para María, a expressão "não chegar ao fim do mês" ainda não é precisa. “Não estamos nem no dia 10 e já não dá mais”, diz, sem perder o sorriso. Em sua casa, os 900 euros (3.440 reais) que seu marido ganha como motorista e o pouco que ela consegue tirar ao dar uma mão em um bar saem tão rápido quanto entram. Só para o aluguel já são 750 euros. Esta cubana de 30 anos está entre os milhões de imigrantes que chegaram à Espanha no boom da construção e que mais tarde acabaram pagando pelos excessos daqueles dias. Desde então, sofrem com empregos precários e mal pagos. Seu perfil se encaixa perfeitamente com um fenômeno que, apesar de não ser novo, tem crescido em decorrência da crise: o dos trabalhadores pobres.
+
+As estatísticas europeias mostram que este é um problema em alta em todo o continente, mas especialmente grave na Espanha, país que serviu de inspiração para a nova legislação trabalhista brasileira que entrou em vigor no sábado. Entre os espanhóis, 13,1% dos trabalhadores vivem em lares que não alcançam 60% da renda média. Só Romênia e Grécia têm números piores nesse triste indicador. E o risco de pobreza ameaça ainda mais os espanhóis que têm um contrato de trabalho parcial: neste grupo, a taxa dispara para 24,3%. (DONCEL, 2017)
+
+A notícia citada remete ao contexto espanhol pós-eclosão da crise mundial (2007-2008) que, nesse país, manifestou-se sobretudo pela crise no mercado imobiliário. Esse contexto de crise na Espanha permite traçar paralelos com a atual situação no Brasil. Nesse sentido, qual das alternativas a seguir é verdadeira?
+
+a) A crise imobiliária, como na Espanha, é o principal produtor de pobreza no Brasil após 2014.
+
+b) A situação trabalhista de María é uma exceção no contexto espanhol pós-eclosão da crise (2007-2008) e também no Brasil (após 2014).
+
+c) O fenômeno dos trabalhadores pobres (working poor) é equivalente ao desemprego e não é relevante no contexto da Espanha e do Brasil do início do século XXI.
+
+d) A flexibilização do mercado de trabalho na Espanha e no Brasil, com aumento de trabalhos temporários e terceirizados, significou a erradicação da pobreza nesses dois países nos últimos dois anos.
+
+e) O fenômeno dos trabalhadores pobres retrata uma situação de trabalho, porém muito precário e mal-remunerado, que não resolve o problema do aumento da pobreza na Espanha e no Brasil.
+
+**Gabarito: E**
+
+### Explicação da questão
+- A: Pelo o que estudamos e pela citação apresentada, não é possível afirmar que a crise imobiliária é o principal produtor de pobreza.
+- B: A situação trabalhista de María não é uma exceção no contexto espanhol pós-eclosão da crise (2007-2008) nem no brasileiro (após 2014). De acordo com a citação, o perfil dela:
+se encaixa perfeitamente com um fenômeno que, apesar de não ser novo, tem crescido em decorrência da crise: o dos trabalhadores pobres.As estatísticas europeias mostram que este é um problema em alta em todo o continente, mas especialmente grave na Espanha, país que serviu de inspiração para a nova legislação trabalhista brasileira que entrou em vigor no sábado. (DONCEL, 2017)
+- C: Não é possível afirmar que o fenômeno dos trabalhadores pobres (working poor) é equivalente ao desemprego, porém esse fenômeno chama a atenção tanto no contexto da Espanha e do Brasil do início do século XXI.
+- D: Não é possível afirmar que a flexibilização do mercado de trabalho na Espanha e no Brasil significou a erradicação da pobreza.
+- E: A notícia de jornal coloca em discussão o modelo de trabalho que está sendo referendado por leis de flexibilização do mercado de trabalho na Espanha, no Brasil e em muitos outros países, permitindo a contratação temporária, o trabalho intermitente, a terceirização, dentre outras formas de contratação flexíveis, que significam uma existência precária e submetida a inúmeras pressões para os trabalhadores, ou seja, uma situação de ter trabalho, porém viver na pobreza.
+
+# Questão
+Leia os excertos a seguir:
+
+Excerto I:
+
+Além do adensamento das favelas, nos últimos anos testemunhamos um crescimento acentuado de ocupações organizadas de terrenos e edifícios vazios, em várias cidades brasileiras, principalmente em São Paulo e Belo Horizonte. Desde os anos 1980, movimentos sociais organizados por moradia promoveram ocupações planejadas de terrenos nas periferias, com o duplo objetivo de chamar a atenção e pressionar por uma política habitacional para assim “resolver” o problema dos sem-teto, ainda que de forma provisória. (ROLNIK, 2016, p. 278)
+
+Excerto II:
+
+No caso brasileiro, o aumento exponencial da disponibilidade de crédito – inclusive o crédito imobiliário, uma das medidas centrais do modelo econômico desenvolvimentista – incidiu de forma intensa sobre o preço dos imóveis. Isso se deu particularmente após 2009, quando já vigorava a crise financeira internacional detonada pela derrocada do crédito subprime no mercado hipotecário norte-americano. Nesse contexto, um programa de estímulo à produção de casas – o Minha Casa Minha Vida – lançou 100 bilhões de reais em crédito imobiliário residencial em dois anos, articulado a um programa de subsídios para a compra de 1 milhão de unidades residenciais produzidas pelo mercado privado. (ROLNIK, 2016, p. 279)
+
+Os contextos descritos nos excertos ajudam a circunscrever relevantes problemáticas relacionadas com a questão da moradia no Brasil do início do século XXI. Qual das alternativas a seguir ajuda a entender melhor a questão da moradia no nosso país e sua ligação com as dinâmicas de funcionamento das cidades no mundo de hoje?
+
+a) A política de moradia descrita no excerto II é destinada a resolver os problemas enfrentados pelo grupo social atingido pelos problemas descritos no excerto I.
+
+b) A pressão exercida pelos movimentos sociais descritos no excerto I levou à implementação da política de moradia descrita no excerto II.
+
+c) O aumento dos sem-teto, descrito no excerto I, tem estreita relação com o modelo de política de moradia descrito no excerto II.
+
+d) A política implementada do excerto II significou a resolução definitiva do problema descrito no excerto I.
+
+e) O aumento dos sem-teto, descrito no excerto I, não tem nenhuma relação com o modelo de política de moradia descrito no excerto II.
+
+**Gabarito: C**
+
+### Explicação da questão
+- A: O público social correspondente aos sem-teto (citados no excerto I) não é contemplado pela política de moradia descrita no excerto II.
+- B: O público social correspondente aos sem-teto (citados no excerto I) não é contemplado pela política de moradia descrita no excerto II.
+- C: O excerto I mostra que a tendência global do aumento do número de favelas e de pessoas sem-teto nas cidades está ativa no Brasil do início do século XXI. O excerto II retrata um modelo de política de moradia baseado no fornecimento de crédito subsidiado e ligado ao mercado privado das grandes construtoras e bancos. A questão central a ser identificada é que o público social correspondente aos sem-teto – que só tem aumentado nos últimos anos no Brasil e no mundo –, não é contemplado pela política de moradia descrita no excerto II. Esse público vive de forma muito precária nas cidades, com baixíssima renda e quase sempre excluído do mercado de trabalho formal. Daí a impossibilidade de conseguir ser contemplado por esse crédito e, depois, de pagar de forma continuada as prestações. Além disso, é preciso entender que o tipo de política descrita no excerto II gera pressão para a inflação do preço de imóveis nas cidades e o aquecimento do mercado especulativo de imóveis – fomentado pelas grandes construtoras e pelo mercado financeiro –, que muitas vezes resultam na remoção da população mais pobre de seus locais de moradia. Dessa forma, é possível estabelecer uma relação entre políticas de inclusão pela ampliação do mercado da casa própria com o cenário atual das cidades no Brasil e no mundo, marcado pela favelização e produção de pessoas sem-teto.
+- D: O público social correspondente aos sem-teto (citados no excerto I) não é contemplado pela política de moradia descrita no excerto II.
+- E: O público social correspondente aos sem-teto (citados no excerto I) não é contemplado pela política de moradia descrita no excerto II. Assim, há relação entre o aumento dos sem-teto e o modelo de política de moradia descrito no excerto II.
 
 # Questão
