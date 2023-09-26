@@ -683,3 +683,31 @@ e) O alto percentual de entrevistados que não sabia responder à pergunta ou n�
 - E: O percentual de entrevistados que não sabia responder à pergunta ou não quis respondê-la não é alto, passando de um pouco mais de 12% em alguns anos. Além disso, não é possível afirmar que esse dado invalida a pesquisa.
 
 # Questão
+Observe o gráfico a seguir:
+
+Aumento no número de grandes propriedades rurais nos anos 2000
+
+O gráfico mostra que em 2003 havia 4.288.672 propriedade rurais. Desse total, 9,4% são minifúndios; 17,8% são pequenas propriedades; 21,2% são médias propriedades; e 51,6% são grandes propriedades. Já em 2010, havia 5.167.476 propriedades rurais. Desse total, 8,2% são minifúndios; 15,6% são pequenas propriedades; 20% são médias propriedades; e 56,1% são grandes propriedades.
+Fonte: Sistema Nacional de Cadastro Rural / Incra, extraído de OXFAM, 2016.
+Segundo as informações do gráfico apresentado, retiradas do estudo de OXFAM (2016) com base nos dados do Sistema Nacional de Cadastro Rural (SCNR), do Instituto Nacional de Colonização e Reforma Agrária (INCRA), é correto concluir:
+
+a) No Brasil, o início do século XXI representa uma exceção histórica em relação à estrutura fundiária do país.
+
+b) Os minifúndios e as pequenas propriedades, que são responsáveis pela maior parte da produção de alimentos no Brasil, tiveram um aumento significativo de área no início do século XXI.
+
+c) O número de estabelecimentos rurais cresceu entre os anos de 2003 e 2010, evidenciando a tendência de efetivação da reforma agrária no Brasil.
+
+d) O crescimento do número de estabelecimentos rurais associou-se ao crescimento da participação percentual das grandes propriedades no território nacional, evidenciando a continuidade da concentração de terras no Brasil.
+
+e) As tendências para o futuro apontam para um decrescimento das grandes propriedades no Brasil.
+
+**Gabarito: D**
+
+### Explicação da questão
+- A: O gráfico reflete um problema histórico do nosso país: a concentração de terras. Note que o percentual de grandes propriedades rurais aumentou entre 2003 e 2010.
+- B: No gráfico apresentado, notamos que em 2003 os minifúndios representavam 9,4% das propriedades rurais, já em 2010 esse percentual caiu para 8,2%. Nesse mesmo período, também houve redução no percentual de pequenas propriedades: em 2003, esse percentual era de 17,8% e em 2010, de 15,6%.   Consequentemente, entende-se que a área de minifúndios e pequenas propriedades foi reduzida no início do século XXI.
+- C: De acordo com o gráfico, o número de estabelecimentos rurais aumentou entre os anos de 2003 e 2010. Porém, esse crescimento foi impulsionado pelas grandes propriedades. Isso não evidencia a tendência de efetivação da reforma agrária no Brasil.
+- D: Constata-se pelo gráfico que, apesar de o número de estabelecimentos rurais entre os anos de 2003 e 2010 ter aumentado, esse crescimento foi impulsionado pelas grandes propriedades. O problema secular de concentração de terras, que marca a história moderna do Brasil, não foi interrompido no início do século XXI. Essa questão relaciona-se diretamente com o problema da miséria rural e urbana no Brasil, por também significar concentração de renda e um modelo produtivo baseado na monocultura com uma estrutura de ocupações numericamente restritas e caracterizadas por baixos salários, entre outros fatores.
+- E: Pelos dados apresentados, não é possível afirmar que, no futuro, haverá um decréscimo no número de grandes propriedades rurais.
+
+# Questão
