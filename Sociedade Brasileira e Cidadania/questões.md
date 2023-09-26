@@ -773,3 +773,87 @@ e) O aumento dos sem-teto, descrito no excerto I, não tem nenhuma relação com
 - E: O público social correspondente aos sem-teto (citados no excerto I) não é contemplado pela política de moradia descrita no excerto II. Assim, há relação entre o aumento dos sem-teto e o modelo de política de moradia descrito no excerto II.
 
 # Questão
+Leia o trecho a seguir:
+
+No Brasil, sete em cada dez pessoas assassinadas são negras. Na faixa etária de 15 a 29 anos, são cinco vidas perdidas para a violência a cada duas horas. De 2005 a 2015, enquanto a taxa de homicídios por 100 mil habitantes teve queda de 12% para os não-negros, entre os negros houve aumento de 18,2%. A letalidade das pessoas negras vem aumentando e isto exige políticas com foco na superação das desigualdades raciais.
+
+Segundo dados recentes divulgados pela UNICEF, de cada mil adolescentes brasileiros, quatro vão ser assassinados antes de completar 19 anos. Se nada for feito, serão 43 mil brasileiros entre os 12 e os 18 anos mortos de 2015 a 2021, três vezes mais negros do que brancos. Entre os jovens, de 15 a 29, nos próximos 23 minutos, uma vida negra será perdida e um futuro cancelado. (ONUBR, [2017?]).
+
+Os dados fornecidos pela campanha Vidas Negras evidenciam que:
+
+a) O número de mortes de pessoas negras na sociedade brasileira é insignificante, por isso é compreensível que a mídia não dê destaque à cor das pessoas mortas no país.
+
+b) As mortes de jovens negros no Brasil não têm nenhum impacto negativo na nossa sociedade e não há problema se estão aumentando.
+
+c) As políticas com foco na superação das desigualdades raciais tiveram um impacto positivo na redução da mortalidade de brancos no Brasil.
+
+d) A categoria cor não deveria ser utilizada nas estatísticas sobre as mortes no Brasil, já que não tem nenhuma utilidade científica e social.
+
+e) Mais da metade das pessoas assassinadas no Brasil são negras, sobretudo jovens, o que comprova a atuação do racismo no país.
+
+**Gabarito: E**
+
+### Explicação da questão
+- A: O número de mortes de pessoas negras na sociedade brasileira é, na verdade, significante, já que “no Brasil, sete em cada dez pessoas assassinadas são negras” (ONUBR, [2017?]).
+- B: As mortes de jovens negros no Brasil têm, sim, impacto negativo na nossa sociedade e o fato de estarem aumentando é alarmante. Conforme a citação apresentada:
+[...] de cada mil adolescentes brasileiros, quatro vão ser assassinados antes de completar 19 anos. Se nada for feito, serão 43 mil brasileiros entre os 12 e os 18 anos mortos de 2015 a 2021, três vezes mais negros do que brancos. Entre os jovens, de 15 a 29, nos próximos 23 minutos, uma vida negra será perdida e um futuro cancelado. (ONUBR, [2017?]).
+- C: Na verdade, os dados apresentados chamam atenção para o fato de que o número de negros mortos é maior do que o de brancos. Conforme a citação: “a letalidade das pessoas negras vem aumentando e isto exige políticas com foco na superação das desigualdades raciais” (ONUBR, [2017?]).
+- D: A categoria cor deve, sim, ser utilizada nas estatísticas sobre as mortes no Brasil, já que tem utilidade científica e social.
+- E: Os dados fornecidos pela campanha Vidas Negras denunciam os graves efeitos da atuação do racismo na sociedade brasileira. Se a morte de um branco ganha mais visibilidade na sociedade, por causa do racismo, a de um negro não. Como visto, essa mesma campanha coloca em evidência o resultado da pesquisa da Secretaria Especial de Políticas de Promoção da Igualdade Racial (SEPPIR) e do Senado Federal, segundo a qual 56% da população concorda com a afirmação de que “a morte violenta de um jovem negro choca menos a sociedade do que a morte de um jovem branco”. Além da denúncia da indiferença dos brasileiros, a campanha tem o fim de sensibilizar a população de que cada perda de um negro é um prejuízo para o conjunto da sociedade.
+
+# Questão
+Em um país multicultural, a interculturalidade deve ser parte do processo educativo. Por que o Brasil não faz? Por que até hoje a temática da diversidade não faz parte do currículo escolar? Por que até hoje a temática indígena não é tema básico nas escolas? Por que precisamos de uma lei para incluir essa temática no currículo escolar? (BRIGHENTI, 2016, p. 236).
+
+Qual das respostas a seguir contempla todas as perguntas apresentadas.
+
+a) A realidade curricular do ensino básico e fundamental no Brasil, desde sempre, contemplou o estudo de 180 línguas indígenas e das diferentes culturas africanas.
+
+b) Não há material didático e professores preparados para permitir o ensino das culturas indígenas e afro-brasileiras no sistema de ensino básico e fundamental no Brasil.
+
+c) As culturas indígenas e afro-brasileiras não têm natureza científica e não oferecem nenhuma contribuição para que sejam ensinadas nos currículos escolares.
+
+d) A hegemonia da cultura ocidental, ligada ao processo de colonização do Brasil, reflete-se nos currículos escolares até hoje.
+
+e) Justifica-se apenas o ensino das culturas afro-brasileiras nos currículos escolares, pois os negros representam mais da metade da população brasileira.
+
+**Gabarito: D**
+
+### Explicação da questão
+- A: Não é correto afirmar que a realidade curricular do ensino básico e fundamental no Brasil, desde sempre, contemplou o estudo de 180 línguas indígenas e das diferentes culturas africanas.
+- B: A alternativa “b” não contempla todas as perguntas apresentadas no enunciado.
+- C: As culturas indígenas e afro-brasileiras oferecem, sim, contribuições aos currículos escolares.
+- D: O enunciado provoca a reflexão sobre a atuação do eurocentrismo na produção e aplicação do conhecimento no sistema educativo brasileiro. Essa é a questão de fundo, ligada à história da colonização no Brasil, que se reproduz até hoje. Embora no início do século XXI diversas medidas – motivadas pela pressão dos movimentos negros e indígenas – tenham sido implantadas, como a obrigatoriedade do ensino da história indígena e afro-brasileira, as perguntas do autor despertam uma crítica sobre a continuidade do funcionamento da estrutura racializada da sociedade brasileira que se reflete também na educação.
+- E: Tanto as culturas afro-brasileiras quanto as indígenas têm contribuições a oferecer aos currículos escolares.
+
+# Questão
+Edward Said, em seu livro Orientalismo (2007), cunhou o conceito de orientalismo, sinônimo de domínio euroamericano. Seu objetivo foi destacar o modo de pensar o Oriente por parte dos estudiosos ocidentais a partir de uma série de concepções falsas e estereotipadas, uma visão de mundo eurocêntrica que acaba por construir oposições radicais e hierarquizadas entre aquilo que é europeu e o que não é, criando um conceito de alteridade e de diferença em confronto a tudo que não é ocidental.
+
+O objetivo de fundo de sua obra, lida mundialmente, é propor uma reflexão crítica sobre a expansão da cultura ocidental no mundo e sobre sua influência na contemporaneidade, analisando-a como um processo histórico interligado à função de legitimação do sistema de colonização, de dominação e exploração dos povos não ocidentais.
+
+Para Said, o colonialismo é um acontecimento chave da história moderna, marco da criação do paradigma da modernidade ocidental, da cultura ocidental como algo diferente e separado das outras culturas. A invenção do “outro” primitivo, selvagem, mantém uma relação com a afirmação da identidade do Ocidente, é claro, como superior.
+
+Essa questão ajuda a entender a problemática da hierarquia da produção de conhecimento nas diversas áreas do saber, bem como outras questões relacionadas com a cultura e a identidade na contemporaneidade.
+
+Com base na discussão levantada, escolha a alternativa correta.
+
+a) O orientalismo é um fenômeno situado no passado distante, quando o sistema colonial ainda era vigente no mundo.
+
+b) O orientalismo ajuda na compreensão do funcionamento do racismo no mundo contemporâneo, por iluminar as relações hierárquicas entre povos e culturas.
+
+c) As relações hierárquicas entre culturas dizem respeito apenas ao juízo de valor de cada indivíduo, ou seja, qual cultura ele considera como superior ou inferior.
+
+d) A produção do conhecimento em todas as áreas científicas, como diz respeito à ciência, é isenta de relações de poder e dominação.
+
+e) A crítica proposta por Edward Said não se aplica à história colonial da América Latina, pois refere-se exclusivamente à relação do Oriente Médio com o Ocidente.
+
+**Gabarito: B**
+
+### Explicação da questão
+- A: Conforme lemos no enunciado, Edward Said, em seu livro Orientalismo (2007), cunhou o conceito de orientalismo, sinônimo de domínio euroamericano. O objetivo de fundo de sua obra é propor uma reflexão crítica sobre a expansão da cultura ocidental no mundo e sobre sua influência na contemporaneidade.
+- B: O intelectual e crítico literário Edward Said (1935-2003) era de origem palestina e foi radicado nos Estados Unidos, onde lecionava na Universidade de Columbia a disciplina de literatura comparada. Edward Said estudou, a partir de fontes literárias, como a ideia de cultura e identidade ocidentais é construída. O autor identificou um princípio hierárquico nesses textos que separa a cultura e a identidade ocidentais de todas as outras culturas e identidades não ocidentais.
+Esse princípio hierárquico também fundamenta o racismo. Parte-se do pressuposto de que a raça/cultura branca ocidental é superior às outras raças/culturas não ocidentais.
+Ressalta-se que a crítica de Edward Said nos ajuda a entender a expansão da cultura ocidental tal como se manifesta hoje no processo de globalização, que não rompeu, mas deu continuidade à hierarquização entre diferentes povos e culturas que teve início com o sistema de colonização moderno.
+- C: Edward Said estudou, a partir de fontes literárias, como a ideia de cultura e identidade ocidentais é construída. O autor identificou um princípio hierárquico nesses textos que separa a cultura e a identidade ocidentais de todas as outras culturas e identidades não ocidentais.
+Assim, podemos entender que as relações hierárquicas entre as culturas estão enraizadas nas sociedades, não sendo construídas apenas individualmente.
+- D: A produção do conhecimento não é isenta de relações de poder e dominação.
+- E: A crítica proposta por Edward Said se aplica, sim, à história colonial da América Latina.
