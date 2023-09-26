@@ -657,7 +657,7 @@ e) O regime militar ofereceu instrumentos institucionais para combater a corrup�
 # Questão
 O gráfico a seguir foi extraído da pesquisa de Bernardo Geraldini (2018), que oferece o resultado das entrevistas realizadas pelo Latinobarômetro (opinião pública latino-americana), relativas às respostas dos brasileiros à seguinte pergunta: “Com qual das seguintes frases você está mais de acordo?”
 
-
+![imagem](https://github.com/Felipe-Fig/Engenharia-de-Software---Mat-rias/blob/391274af4e0182ddaee93f5f7e98484c159ab5f0/Sociedade%20Brasileira%20e%20Cidadania/SCR-20230926-ngmh.png)
 
 Trata-se de um gráfico de linhas. No eixo vertical, são apresentadas as porcentagens. No eixo horizontal, são apresentados os anos: de 1995 a 2017. A linha azul escuro representa os entrevistados que responderam “A democracia é preferível a qualquer outra forma de governo”. A linha marrom claro representa os entrevistados que responderam: “Para as pessoas em geral, dá na mesma se um regime é democrático ou não”. A linha azul claro representa os entrevistados que responderam “Em algumas circunstâncias, um governo autoritário pode ser preferível”. A linha marrom escuro representa os entrevistados que não responderam ou não souberam responder.
 Fonte: Latinobarômetro (apud GERALDINI, 2018, p. 29).
@@ -672,3 +672,14 @@ c) Após 1995, os entrevistados, em geral, são mais a favor da democracia do qu
 d) O alto percentual de entrevistados que concordam que “em geral dá na mesma se um regime é democrático ou não” torna incontestável a tese da eficiência do regime autoritário.
 
 e) O alto percentual de entrevistados que não sabia responder à pergunta ou não quis respondê-la invalida a pesquisa.
+
+**Gabarito: C**
+
+### Explicação da questão
+- A: Em 2017, o percentual de entrevistados a favor da ideia de que “em algumas circunstâncias, um governo autoritário pode ser preferível” corresponde a um pouco mais de 12%.
+- B: Em 2016, o percentual daqueles que consideram que “dá na mesma se um regime é democrático ou não” foi de um pouco mais de 36%. Isso revela que este percentual de entrevistados é indiferente ao regime democrático no Brasil.
+- C: O estudo do qual foi extraído esse gráfico teve como objetivo investigar a relação entre corrupção, opinião pública, o papel da mídia e o funcionamento da democracia no Brasil durante os últimos anos marcados pela crise econômica e política no país. O autor oferece um estudo científico do discurso da mídia e sua influência na opinião dos brasileiros para que passassem a considerar a corrupção como um grande problema. O gráfico revela que um dos resultados dessa questão é o descrédito da democracia, o que nos traz um alerta, pois, como foi discutido ao longo desta seção, a tese de que os regimes autoritários são isentos de corrupção não corresponde à realidade histórica do Brasil.
+- D: Pelo gráfico, não é possível afirmar que o percentual de entrevistados que afirmam que “em geral dá na mesma se um regime é democrático ou não” é alto, pois o percentual de entrevistados que respondeu isso não ultrapassou um pouco mais de 36% (em 2016). Além disso, os dados apresentados não revelam que a tese da eficiência do regime autoritário é incontestável.
+- E: O percentual de entrevistados que não sabia responder à pergunta ou não quis respondê-la não é alto, passando de um pouco mais de 12% em alguns anos. Além disso, não é possível afirmar que esse dado invalida a pesquisa.
+
+# Questão
