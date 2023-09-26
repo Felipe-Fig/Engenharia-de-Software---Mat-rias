@@ -480,10 +480,10 @@ Assinale a alternativa que apresenta a sequência correta:
 
 Alternativas:
 
-a) V-V-V-F.
-b) V-V-F-V.
-c) V-F-V-V.
-d) F-V-V-V.
+a) V-V-V-F.\
+b) V-V-F-V.\
+c) V-F-V-V.\
+d) F-V-V-V.\
 e) V-V-V-V.
 
 **Gabarito: E**
@@ -514,16 +514,11 @@ Assinale a alternativa correta:
 
 Alternativas:
 
-a)
-Estão corretas apenas as afirmativas I, II e III.
-b)
-Estão corretas apenas as afirmativas I, II e IV.
-c)
-Estão corretas apenas as afirmativas I, III e IV.
-d)
-Estão corretas apenas as afirmativas II, III e IV.
-e)
-Estão corretas todas as afirmativas I, II, III e IV.
+a) Estão corretas apenas as afirmativas I, II e III.\
+b) Estão corretas apenas as afirmativas I, II e IV.\
+c) Estão corretas apenas as afirmativas I, III e IV.\
+d) Estão corretas apenas as afirmativas II, III e IV.\
+e) Estão corretas todas as afirmativas I, II, III e IV.
 
 
 **Gabarito: A**
@@ -545,16 +540,11 @@ Assinale a alternativa que apresenta a sequência correta:
 
 Alternativas:
 
-a)
-V-V-V-F.
-b)
-V-V-F-V.
-c)
-V-F-V-V.
-d)
-F-V-V-V.
-e)
-V-V-V-V.
+a) V-V-V-F.\
+b) V-V-F-V.\
+c) V-F-V-V.\
+d) F-V-V-V.\
+e) V-V-V-V.
 
 **Gabarito: E**
 
@@ -573,16 +563,11 @@ Assinale a alternativa que apresenta a sequência correta:
 
 Alternativas:
 
-a)
-V-V-V-F.
-b)
-V-V-F-V.
-c)
-V-F-V-V.
-d)
-F-V-V-V.
-e)
-V-V-V-V.
+a) V-V-V-F.\
+b) V-V-F-V.\
+c) V-F-V-V.\
+d) F-V-V-V.\
+e) V-V-V-V.
 
 **Gabarito: E**
 
@@ -609,15 +594,81 @@ Assinale a alternativa que apresenta a associação correta:
 
 Alternativas:
 
-a)
-3-2-1.
-b)
-3-1-2.
-c)
-2-3-1.
-d)
-2-1-3.
-e)
-1-3-2.
+a) 3-2-1.\
+b) 3-1-2.\
+c) 2-3-1.\
+d) 2-1-3.\
+e) 1-3-2.
 
 **Gabarito: C**
+
+# Questão
+Leia a citação a seguir:
+
+A corrupção pode ser funcional do ponto de vista de uma sociedade clientelista que tende a se orientar para linhas corporativas de organização; onde o favoritismo não se faz apensa para o indivíduo, mas para grupos inteiros que se organizam solidariamente, com o fim de obter a prioridade das benesses do Estado, em detrimento do bem comum. Não é funcional, no entanto, do ponto de vista de uma sociedade plural e democrática, onde os grupos competem por benefícios dentro de critérios de mérito, subordinados a uma arbitragem desempenhada pelo Estado. (RIOS, 1987, p. 89)
+
+O texto coloca em discussão a funcionalidade do clientelismo, considerado como um dos principais fatores da corrupção e a grande chaga do funcionamento das instituições políticas no Brasil. Qual das alternativas a seguir corresponde à tese defendida pelo autor?
+
+a) O clientelismo pode ser considerado um dos grandes entraves ao funcionamento da democracia por significar privilégios para indivíduos e grupos sociais no Brasil.
+
+b) O clientelismo é funcional ao acesso dos grupos mais desfavorecidos da sociedade brasileira ao poder político e econômico.
+
+c) Uma sociedade plural e democrática permite que o clientelismo se reproduza e se aprofunde nas instituições políticas.
+
+d) O clientelismo é funcional ao pluralismo, pois abre espaço para que os indivíduos sejam reconhecidos pelos seus méritos no exercício de uma função pública.
+
+e) O clientelismo nunca esteve presente nas instituições políticas brasileiras.
+
+**Gabarito: A**
+
+### Explicação da questão
+- A: Segundo o Dicionário Houaiss da língua portuguesa (HOUAISS; VILLAR, 2009, p. 479), clientelismo é uma “prática eleitoreira de certos políticos que consiste em privilegiar uma clientela (‘conjunto de indivíduos dependentes’) em troca de seus votos”. Essa prática é considerada uma corrupção por significar a utilização do poder público – muitas vezes explorando a miséria das pessoas e apresentando uma falsa promessa –, em benefício próprio, ou seja, a obtenção de votos. O texto em questão mostra que a funcionalidade desse sistema é a manutenção de privilégios para indivíduos e grupos que se mantêm no poder político.
+- B: O clientelismo não é funcional ao acesso dos grupos mais desfavorecidos da sociedade brasileira ao poder político e econômico. Conforme a citação apresentada, a funcionalidade desse sistema é a manutenção de privilégios para indivíduos e grupos que se mantêm no poder político.
+- C: De acordo com a crítica apresentada na citação, o clientelismo “não é funcional [...] do ponto de vista de uma sociedade plural e democrática”.
+- D: De acordo com a citação, o clientelismo não é funcional ao pluralismo, e sim à manutenção de privilégios para indivíduos e grupos que se mantêm no poder político.
+- E: A citação apresentada critica justamente a presença do clientelismo nas instituições políticas brasileiras.
+
+# Questão
+Leia a citação a seguir:
+
+Depois de uma revolução [do regime militar] que se destinava explicitamente a combatê-la, a mazela [da corrupção] nunca foi extinta e reaparece, com a força redobrada, sobretudo nos últimos anos do regime autoritário. Em vários momentos, escândalos financeiros, casos de suborno e peculato, fraudes gigantescas ocuparam as primeiras páginas dos jornais. [...] Raramente o Procurador Geral da República assumiu a iniciativa da acusação. Em geral, o desvio de fundos públicos, a fraude contra o erário, a lesão financeira são primeiro denunciados na imprensa para depois repercutir no Congresso e no Ministério Público, sendo seus autores só excepcionalmente levados à barra dos tribunais, raros sentenciados e condenados, e muito menos compelidos a devolver ao erário, pelo confisco, o produto do “golpe”. (RIOS, 1987, p. 84)
+
+O texto traz uma reflexão sobre o tipo de regime político de uma sociedade e a corrupção. Qual das alternativas a seguir segue a tese do autor?
+
+a) A história do Brasil é atravessada pela corrupção, sendo que a única exceção a essa regra é o regime militar (1964-1984).
+
+b) Uma das principais bandeiras do golpe de estado de 1964 foi a limpeza das nossas instituições políticas da corrupção e da imoralidade e esse objetivo foi cumprido pelo regime militar.
+
+c) Durante o regime militar, o crime de desvio de fundos públicos, a fraude contra o erário, a lesão financeira, assim que eram denunciados pela imprensa, recebiam a devida punição.
+
+d) A ideia de que o regime militar é isento de corrupção não corresponde aos fatos históricos que ocorriam durante esse período.
+
+e) O regime militar ofereceu instrumentos institucionais para combater a corrupção da forma mais eficiente de toda a história do Brasil.
+
+**Gabarito: D**
+
+### Explicação da questão
+- A: Lembre-se de que, conforme estudamos, muitas pessoas alegam que nos tempos da ditadura “não ouviam falar de corrupção”. Em qualquer regime de exceção em que a imprensa e os meios de comunicação passam a ser controlados pela censura prévia – e aqueles que a desafiam, correm risco de vida – é esperado que a sociedade não debata ou divulgue escândalos de corrupção. É importante, nesse sentido, diferenciar a existência da corrupção de sua percepção pelo corpo da sociedade.
+- B: idem ao item "A"
+- C: idem ao item "A"
+- D: O trecho foi extraído de um dos primeiros estudos de base científica publicado (1987) no Brasil sobre a corrupção. O contexto que ensejou esses estudos foi justamente o período anterior ao regime militar. Após a redemocratização do Brasil (1984), foi permitido se colocar em debate a corrupção ocorrida durante esse período. Os estudos mostram claramente que a corrupção era uma das causas dos graves problemas sociais, econômicos, políticos herdados pela sociedade brasileira das duas décadas de regime militar. Esses estudos científicos mostram a falsidade da tese de que um regime autoritário é o principal remédio contra a corrupção.
+- E: idem ao item "A"
+
+# Questão
+O gráfico a seguir foi extraído da pesquisa de Bernardo Geraldini (2018), que oferece o resultado das entrevistas realizadas pelo Latinobarômetro (opinião pública latino-americana), relativas às respostas dos brasileiros à seguinte pergunta: “Com qual das seguintes frases você está mais de acordo?”
+
+
+
+Trata-se de um gráfico de linhas. No eixo vertical, são apresentadas as porcentagens. No eixo horizontal, são apresentados os anos: de 1995 a 2017. A linha azul escuro representa os entrevistados que responderam “A democracia é preferível a qualquer outra forma de governo”. A linha marrom claro representa os entrevistados que responderam: “Para as pessoas em geral, dá na mesma se um regime é democrático ou não”. A linha azul claro representa os entrevistados que responderam “Em algumas circunstâncias, um governo autoritário pode ser preferível”. A linha marrom escuro representa os entrevistados que não responderam ou não souberam responder.
+Fonte: Latinobarômetro (apud GERALDINI, 2018, p. 29).
+O gráfico apresentado permite fazermos reflexões sobre a relação entre escândalos de corrupção e o descrédito da democracia na sociedade brasileira. Considerando essas reflexões, qual das alternativas está correta?
+
+a) Em 2017, o percentual de entrevistados a favor da ideia de que “em algumas circunstâncias, um governo autoritário pode ser preferível” corresponde a mais da metade.
+
+b) Em 2016, o percentual daqueles que consideram que “dá na mesma se um regime é democrático ou não” revela a crença dos entrevistados no funcionamento da democracia no Brasil.
+
+c) Após 1995, os entrevistados, em geral, são mais a favor da democracia do que de um regime autoritário.
+
+d) O alto percentual de entrevistados que concordam que “em geral dá na mesma se um regime é democrático ou não” torna incontestável a tese da eficiência do regime autoritário.
+
+e) O alto percentual de entrevistados que não sabia responder à pergunta ou não quis respondê-la invalida a pesquisa.
