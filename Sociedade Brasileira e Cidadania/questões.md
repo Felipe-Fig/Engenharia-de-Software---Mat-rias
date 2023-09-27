@@ -859,3 +859,195 @@ Assim, podemos entender que as relações hierárquicas entre as culturas estão
 - E: A crítica proposta por Edward Said se aplica, sim, à história colonial da América Latina.
 
 # Questão
+Os direitos e garantias fundamentais previstos na Constituição Federal Brasileira de 1988 são essencialmente voltados a "criar e manter os pressupostos  elementares de uma vida na liberdade e na dignidade humana" (BONAVIDES,  2004,  p.  560).  
+
+Considerando  as  quatro  gerações  dos  direitos  fundamentais,  associe  as  duas colunas, relacionando os direitos fundamentais à sua definição:
+
+1- primeira geração dos direitos fundamentais.\
+2- segunda geração dos direitos fundamentais.\
+3- terceira geração dos direitos fundamentais.\
+4- quarta geração dos direitos fundamentais.
+
+( ) direitos sociais, culturais, econômicos e coletivos.\
+( ) garantias universais para o gênero humano, paz entre os povos, preservação do meio ambiente, comunicação livre, patrimônio comum da humanidade.\
+( ) universalização dos direitos fundamentais, direitos à democracia, a informação e ao pluralismo.\
+( ) direitos individuais, direitos civis e políticos.  
+
+A sequência correta dessa associação é:
+
+A) (4), (3), (2), (1)\
+B) (3), (2), (1), (4).\
+C) (1), (2), (3),(4).\
+D) (2), (3), (4), (1).\
+E) (3), (1),(4),(2).
+
+**Gabarito: D**
+
+# Questão
+Questão 2 Hoje, os profissionais da saúde estão  enfrentando terríveis dilemas morais,  sobretudo  no  enfrentamento da Covid-19  com  a  saturação  dos  hospitais.  Sabemos  que  alguns  princípios  são  importantíssimos  nessa circunstância, entre eles, o princípio do direito ao tratamento igual a todos os pacientes. Nessa circunstância, todas ações desses profissionais evidenciam A) o dilema religioso dos profissionais da saúde e a convicção de que suas escolhas estão direcionadas por Deus. B) a prática na saúde, ou seja, os atendimentos dos profissionais da saúde, estão vinculados aos preceitos desse ou daquele credo religioso que determinam os regramentos dos enfermeiros. C) o processo de responsabilização dos profissionais da saúde em detrimento das responsabilidades que o Estado tem de manter os hospitais. D) a racionalidade exigida nas ações dos profissionais de saúde, que são livres de efeitos morais e religiosos. E) a complexidade no exercício da liberdade de escolha e a existência de consequências negativas decorrentes das decisões.
+
+**Gabarito: E**
+
+# Questão
+De acordo com Michel Foucault ( 1923-1984), a relação "poder-saber", expressa em discursos científicos e no senso comum sobre a punição, também tem um papel fundamental para a construção da verdade sobre o crime e  para  a  legitimação  de  sua  punição  pelas  práticas  disciplinares,  que  incluem  a  vigilância  contínua.  Nesse sentido, é correto afirmar que o saber construído  A) é uma prática punitiva.  B) é uma forma de controle político e social. C) é uma forma de combater a opressão e a violência. D) é uma prática que atinge as camadas mais ricas da sociedade. E) é uma forma de emancipação do sujeito.
+
+**Gabrito: B**
+
+# Questão
+O atual presidente do Brasil, afirmou em 29/10/2020 em um evento de celebração de obras na BR-135, no Maranhão: "Estamos fazendo mais com menos. Não existe uma só notícia de corrupção no nosso governo. Isso devemos pelos  ministros e os  parlamentares  também, que trabalham  em  conjunto  visando o bem-estar  do Brasil".  Disponível  em:  https://valor.globo.com/politica/noticia/2020/10/29/bolsonaro-diz-que-nao-existe-uma-so-noticia-de-corrupcao-no-governo.ghtml ou as ferramentas oferecidas na página. Essa fala nos leva ao estudo da relação entre corrupção e ética, público e privado e as atribuições do Estado, na história do Brasil. Nesse sentido, avalie as afirmações. I-É na esfera pública que as instituições, empresas e funcionários regidos pelas normas do direito público, que a  corrupção  ganha  mais  visibilidade,  com  o  suborno,  o  falseamento  de  dados,  principalmente  de  órgãos reguladores e ambientais. II-A esfera privada, sobretudo das empresas, é permeada por operações de favoritismo, apropriação indébita, concorrência desleal. III- Os conchavos e a corrupção, entre empresas, corporações e o Estado resultaram no Brasil nos dois maiores crimes ambientais – Mariana(2015) e Brumadinho( 2019). IV- No  Brasil, a regulamentação ambiental contra  a corrupção  ou o  lobby dos  empresários e  o Estado para quebrar as barreiras para explorar a natureza e /ou utilizar produtos químicos é combatida pela "Bancada do Boi e o agronegócio" Assinale a alternativa correta A) As afirmações I; II; III estão corretas. B) As afirmações II; III; IV estão corretas. C) As afirmações III e IV estão corretas. D) Somente as afirmações I e II estão corretas. E) Somente as afirmações II e III estão corretas. 
+
+**Gabarito: A**
+
+# Questão
+Max Weber ( 1864-1920) em sua obra A ética protestante e o espírito capitalista, apresenta a relação entre o sistema capitalista e o comportamento individualista. Para Weber, os preceitos do capitalismo se desenvolveram a partir das instituições A) religiosas protestantes que estimularam à doutrinação e à salvação individual. B) mercadológicas sobre a influência do estado regulador das economias americanas.  C) familiares que adestraram os comportamentos individuais de forma egoísta. D) educacionais, pois essas instituições foram pensadas par forjar indivíduos sem consciência de classe. E) religiosas do catolicismo que tinham como prática a venda das indulgências individuais.
+
+**Gabarito: A**
+
+# Questão
+O Brasil é o sétimo país mais desigual do mundo, segundo o último relatório divulgado pelo Pnud (Programa das Nações Unidas  para  o Desenvolvimento),  ficando atrás apenas  de nações  do continente  africano, como África do Sul, Namíbia, Zâmbia, República Centro-Africana, Lesoto e Moçambique. O levantamento tem como base o coeficiente Gini, que mede desigualdade e distribuição de renda. [...]  A desigualdade mostrada pelo relatório pode ser explicada por uma série de fatores, segundo Katia Maia, diretora executiva da Oxfam Brasil. Três deles, contudo, são determinantes para que o país permaneça numa posição negativa nos próximos anos: o  racismo,  a  questão  de  gênero  e  a  tributação  de  impostos....  (  Disponível em: https://www.uol.com.br/ecoa/ultimas-noticias/2020/02/20/por-que-brasil-e-o-setimo-pais-mais-desigual-do-mundo.htm?cmpid= Sobre as desigualdades no Brasil, analise as afirmações. I-Um indicador importante para entendermos esse quadro de desigualdade de renda no Brasil diz respeito à estrutura fundiária. 
+II-A desigualdade de distribuição de terras mantém estreita relação com a situação precária da vida urbana, sobretudo das grandes metrópoles. III-A desigualdade brasileira está fortemente ligada a questão da distribuição de renda e riquezas. IV-O combate à desigualdade e o desnível de distribuição de renda clama pela implementação de programas políticos de caráter estrutural como uma reforma no sistema de impostos, aumento de salários, reforma agrária. Assinale a alternativa correta A) Somente a afirmação IV está correta.  B) As afirmações I, II, III, IV estão corretas C) Somente as afirmações II, III e IV estão corretas. D) Somente as afirmações II e III estão corretas. E) Somente as afirmações I; III e IV estão corretas.
+
+**Gabarito: B**
+
+# Questão
+O que significa ser cidadão na sociedade brasileira contemporânea? Partindo das diferentes e complexas analises acerca  do  sentido,  da  palavra  cidadania,  e  buscando  a  desnaturalização  deste  conceito  que,  atualmente, encontra-se tão esvaziado, devido ao seu uso superficial, fato que tem gerado desconhecimento a respeito de uma  questão  que  é  fundamental  ao  exercício  democrático  e  à  participação  política  cotidiana,  analise  as afirmações: I- Lutar contra a iniquidade e a opressão, possibilita trilhar os caminhos que levam à emancipação e representa, certamente, promover o combate em prol da cidadania, tendo como norte a construção de novos paradigmas de inclusão e justiça social. II- O termo cidadania origina-se do latim civitas, enquanto o conceito advém da Antiguidade, aproximando-se nas civilizações gregas das noções de liberdade, igualdade e das virtudes tipicamente republicanas que ainda nos dias atuais costumam ser associadas ao termo. III- A forma e o conteúdo da cidadania se colocaram como inseparáveis da noção de democracia direta, na qual aboliu-se a hierarquia no exercício do poder para dar espaço à igualdade dos cidadãos no plano político, o que permitia a real participação popular nas decisões sobre a vida na polis. Assinale a alternativa correta A) Apenas as afirmações I e III estão corretas. B) Apenas as afirmações II e III estão corretas. C) Apenas as afirmações I e II estão corretas. 
+Por que essa página está desfocada?
+Esse é um documento Premium. Torne-se Premium para ler todo documento.
+D) Apenas a III está correta.  E) As afirmações I; II; III estão corretas 
+
+**Gabrito: E**
+
+# Questão
+"O  Movimento  dos  Trabalhadores  Sem  Teto  foi  fundado  em  1997,  como  uma  versão  urbana  do  MST.  O Movimento  declara  que  seu  objetivo  central  é  a luta  pelo  respeito  ao  direito  constitucional  de moradia. [...]O movimento atua nas grandes capitais do país, onde organiza trabalhadores urbanos na luta por teto. As ações do MTST consistem em ocupar imóveis que se encontram em situação de irregularidade, com o intuito de mobilizar e pressionar as autoridades pela desapropriação desses imóveis (a desapropriação ocorre quando a justiça pública considera que uma propriedade de terra está irregular e, por isso, o proprietário perde a  o  direito  de  propriedade  sobre  a  terra).  (Disponível  em: https://www.politize.com.br/mtst-conheca-o-movimento-dos-trabalhadores-sem-teto/. Acesso 23 de out de 2020). Esse movimento apresenta o impasse entre as normas jurídicas da propriedade privada e a perspectiva moral, impressas  na  Constituição  Brasileira  de  1988,  que  afirma  "São  direitos  sociais  a  educação,  a  saúde,  a alimentação, o trabalho, a moradia, o transporte [...]" Partindo dessa ideia, avalie as afirmações: I-O termo "ética" decorre da palavra grega ethos, carrega como significado a ideia de modo de ser ou bom costume, assim, analisar a conduta dos indivíduos contribui para uma convivência satisfatória em sociedade. II-Ao valorizar a razão enquanto método de se perceber o caráter correto ou incorreto de uma ação, a ética fortalece a responsabilização individual por uma conduta, já que o homem tem mecanismos racionais para identificar a justiça ou injustiça de seus atos. III-A ética é um saber encerrado, cujas determinações já se encontram reveladas, portanto, o comportamento desse movimento MTST é inadequado a conduta humana. Assinale a correta A) As afirmações I; II; III estão corretas. B) As afirmações II; III estão corretas. C) As afirmações I; II estão corretas. D) As afirmações I; III estão corretas. E) Somente a afirmação II está correta.
+
+**Gabarito: C**
+
+# Questão
+Leia atentamente e complete: A ________________, pressupõe um sistema político no qual a condução dos afazeres da sociedade é definida pelos cidadãos, agindo diretamente neste processo de tomada de decisões ou por meio de representantes eleitos para tal finalidade. Esse tipo de governo compõe os aspectos substantivos das condições de vida experimentadas pelos __________, incluindo variáveis como o bem-estar humano, a preservação do sentimento de segurança, a proteção de _____________e a capacidade de resolução de conflitos de uma sociedade. A) teocracia; padres; religião B) autocracia; fascistas; classes. C) democracia; cidadãos, minorias. D) oligarquia; cidadãos; saúde. E) aristocracia; cidadãos; minorias.
+
+**Gabarito: C**
+
+# Questão
+Democracia em  Vertigem (título em inglês: The Edge of Democracy) é um documentário brasileiro de 2019 dirigido por Petra Costa, indicado ao Oscar de Melhor Documentário de Longa Metragem em 2020.[1] Definido como  "uma  tragédia  épica  de  corrupção  e  traição".  (  Disponível em: https://pt.wikipedia.org/wiki/Democracia_em_Vertigem. Acesso 21 de out.de 2020).  Sobre o conceito de democracia, analise as proposições. 
+I-A democracia, ou o "governo do povo" em grego antigo, pressupõe um regime político no qual a condução dos afazeres da sociedade é definida pelos cidadãos, agindo diretamente neste processo de tomada de decisões ou por meio de representantes eleitos para tal finalidade. II-A democracia consiste apenas na participações e representação nos processos eleitorais regulares, por meio do voto e da participação em partidos políticos. III-Sendo a democracia a criação de direitos efetivos dos cidadãos muitas vezes ela ( a democracia) assemelha-se com a ditadura, principalmente quando o Estado tem que intervir na sociedade para garantir seu poder público. Assinale a alternativa correta A) A afirmação II e III estão corretas. B) A afirmação I e III estão corretas.  C) Somente a afirmação I está correta. D) As afirmações I e II estão corretas E) As afirmações I, II, III estão corretas.
+
+**Gabarito: C**
+
+# Questão
+Sobre a cidadania no período da Idade Média e na Idade moderna, na Europa, observa-se o distanciamento do sentido  de  cidadania  ateniense,  para  a  apropriação  da  noção  de  cidadania  greco-romana,  colocando  a participação ativa dos indivíduos na vida pública, em segundo plano. Pensando sobre a perspectiva de cidadania na idade moderna, coloque V (verdadeiro) F ( falso) nas afirmações a seguir. ( ) O cidadão moderno tem o direito de participar do governo de sua vida, de sua cidade e de seu Estado, ser cidadão invoca um regime republicano em seu sentido universal. ( ) O cidadão moderno, mantêm sua posição de vassalo e súdito fiel aos mandos e desmando da aristocracia e do rei. ( ) Para Rousseau, a cidadania não é um presente, mas um dever de participação política na defesa do interesse geral, que é universal a todos os cidadãos, acima dos interesses particulares e individuais. (  )  A  Declaração  Francesa  de  1789,  largamente  influenciada  pelos  pensadores  da  Ilustração,  em  especial Rousseau, também representou um marco para a questão da cidadania, postulando a liberdade individual e a igualdade de direitos entre os homens desde seu nascimento. Assinale a sequência correta A) V;V;F;V. B) V;F;V;F.  C) V;V;F;F. D) V;F;V;V. E) F;V;V;V.
+
+**Gabarito: D**
+
+# Questão
+A Declaração Universal  dos  Direitos  do  Homem  (Organização das  Nações Unidas,  1948),  foi um importante marco jurídico, com princípios do direito internacional, estabelecido após as duas grandes guerras mundiais. Assim, o Tribunal de Nuremberg foi uma iniciativa que transformou os ideais de defesa dos direitos humanos em uma prática judicial. Nesse sentido, o Tribunal de Nuremberg teve o papel de A) reproduzir a soberania norte americana sobre os nazistas. B) produzir punições aos militares desertores. C) reconhecer aos países em guerra o direito de matar. D) produzir memória e punir as atrocidades contra os direitos humanos. E) reconhecer a importância dos militares da primeira grande guerra mundial.
+
+**Gabarito: D**
+
+# Questão
+O avanço nas pesquisas científicas envolvendo campos da biologia e da medicina apresenta inegáveis benefícios para a humanidade, na medida em que permite solucionar questões que há tempos impunham obstáculos ao desenvolvimento  humano.  Contudo,  é  preciso  que  a  bioética  normatize  a  relação  entre  a  ética  e  o  meio ambiente. Analise a relação das afirmações a seguir: I-A bioética pode ser compreendida como o campo de estudos que se utiliza de conceitos da filosofia, sociologia, psicologia,  antropologia,  entre  outros,  para  estabelecer  juízos  éticos  a  respeito  da  utilização  de  novas tecnologias nas áreas das ciências da vida. Porque II- No contexto da preservação ambiental, é necessário a superação do consumismo individualista, em benefício de uma ética que associa o consumo pessoal à preservação coletiva. Assinale a alternativa correta. A) As afirmações I e II são verdadeiras e a II é uma justificativa da I. B) A afirmação I é falsa e a II verdadeira.  C) A afirmação I é verdadeira e a II é falsa. D) As afirmações I e II são falsas. E) As afirmações I e II são verdadeiras, mas não se relacionam entre si. 
+
+**Gabarito: E**
+
+# Questão
+Para aqueles que supõem que a crise política está próxima do seu fim, a resposta positiva é improvável. Pelo contrário, a crise política pode se agravar. Essa verdade desnuda demonstra que uma possível eleição de um aventureiro qualquer pode nos tirar da crise para algo pior. [...] A saída da crise política não pode ser posta, principalmente pelo campo progressista, para além da política. Será uma saída política e pela política."  De acordo com Marilena Chaui (2000) é preciso redefinir o lugar da política em nossa vida cotidiana. Nesse sentido, é preciso combater as deturpações de que a política é um fardo e maléfica, a partir A) da deliberação do governo central. B) da luta entre as classes. C) da recusa das atividades políticas.  D) da participação dos partidos políticos. E) da consciência política. 
+
+**Gabarito: E**
+
+# Questão
+O desenvolvimento do capitalismo desde a sua primeira fase, mercantilista, passando posteriormente pelo liberalismo até o presente modelo vigente, financeiro globalizado, passou por inúmeras reformulações e adaptação para conseguir superar suas constantes crises ao longo da história. Diante desse quadro, assinale a alternativa que apresenta as principais características do sistema. 
+
+R: O capitalismo é um sistema econômico competitivo e individualista que visa o lucro e à acumulação das riquezas e está baseado na propriedade privada dos meios de produção.
+
+# Questão
+O filósofo Aristóteles (384-322 a.C.) afirma que a felicidade humana está ligada ao pleno exercício da natureza cívica e a satisfação individual representa a valorização do convívio coletivo da existência humana. De acordo com esse pensamento, analise a relação entre as afirmações: I- As sociedades domésticas e os indivíduos são o corpo inteiro da cidade, a estrutura e finalidade, portanto, pode ser comparada com uma divindade. Porque II-O indivíduo pode sobreviver sem o todo essa é a inclinação natural dos homens. 
+
+R: As afirmações I e II são falsas.
+
+# Questão
+"São muitos dilemas que envolvem a questão de aborto e ética. No Brasil o abortamento é permitido em duas situações: quando a gravidez representa risco de morte para a mãe e nos casos de estupro. Mas apesar das restrições, o número de abortamentos realizados clandestinamente no nosso país é enorme. Se por um lado há os que defendem a descriminalização do aborto, há aqueles que se apoiam em argumentos morais, políticos e religiosos para continuar contrários à sua proibição. " (Disponível em: https://drauziovarella.uol.com.br/entrevistas-2/aborto-e-etica-entrevista/. Acesso A fundamentação dessa polemica envolve a ideia de ética, de moral e da religião, nesse sentido, analise as asserções a seguir. I-A moral apresenta a diversidade das condutas e prática dos indivíduos e, portanto, muitas vezes se coloca em contradição com a reflexão ética, por exemplo, no Brasil recentemente, alguns manifestantes contrários ao aborto, tentaram impedir um procedimento legal de uma menina de 10 anos que foi estuprada pelo tio. II-A ética é a sistematização da moral, apresenta os princípios e as regras amplas e duradouros de uma comunidade. Por isso, quando a Constituição Brasileira de 1988, em seu " Art. 128 - Não se pune o aborto praticado por médico: I - se não há outro meio de salvar a vida da gestante; II - se a gravidez resulta de estupro e o aborto é precedido de consentimento da gestante ou, quando incapaz, de seu representante legal. " está aplicando padrões éticos à toda uma sociedade. III- Os dilemas que envolvem a discriminação do aborto, passam pelos instrumentos de controle social como o direito, a moral, a ética e a religião. Nesse sentido, tanto a ética quanto a religião exercem a função de prescrever regras de conduta e postura apropriadas aos indivíduos. Contudo, existem na esfera ética e religiosa conceitos opostos que são referência à ação humana, isto porque o pensar ético é eminentemente racional, lógico e inteligível, enquanto a compreensão religiosa é dogmática. Assinale a correta 
+
+R: As asserções I; II; III estão corretas.
+
+# Questão
+"Ser adepto do consumo excessivo pode acarretar muitos problemas  –  que variam desde a dificuldade de relacionamento à ruína financeira. Nem sempre o exagero nas compras indica um distúrbio ou comportamento excessivo, mas isso não significa que não mereça atenção. Em tempos de crédito farto, juros altos e facilidade de acesso aos produtos, sobretudo no varejo on-line, consumir demais pode se tornar um caminho sem volta. " Disponível em:https://veja.abril.com.br/economia/dez-indicios-que-mostram-que-voce-e _consumista/ Acesso 27 de out de 2020)
+  Sobre o consumismo, analise as afirmações e coloque C(certo) E (errado). ( ) O conceito de consumismo é diferente do conceito de consumo. O consumo expressa majoritariamente a aquisição de um bem ou de um serviço para satisfazer uma necessidade. ( ) A ideia de consumismo, revela a intensificação do processo de aquisição de um bem ou de um serviço, atingindo níveis elevados de compra que nem sempre apresentam uma utilidade real ou relevante. ( ) A ideia de consumo e de consumismo são a mesma coisa, isso é, são a criação constante de novas necessidades materiais impostas pela natureza humana e pela chamada obsolescência programada. ( ) O consumismo pode ser ilustrado pela aquisição frequente de produtos desnecessários, pela obtenção de bens ou serviços que simbolizam um status elevado na sociedade. ( ) O consumismo pode ser estimulado pelo reforço que a publicidade fornece ao prazer ou prestígio de uma compra. Assinale a sequência correta 
+  
+  R: C;C;E;C;C.
+
+  # Questão
+  Segundo Dallari (1982, p. 128), “haverá alguma relação entre a ideia moderna de democracia e aquela que se encontra na Grécia Antiga? A resposta é afirmativa, no que respeita à noção de governo do povo, havendo, entretanto, uma divergência fundamental quanto à noção do povo que deveria governar”.
+
+Acerca das características das democracias da antiguidade grega e da modernidade levantadas pelo professor Dallari, assinale a alternativa correta:
+
+a) A concepção moderna de democracia teve como objetivo restringir a parcela da população apta a participar da condução da vida pública, reduzindo direitos civis e políticos.
+
+b) Para Platão, todos os indivíduos apresentavam as mesmas condições de governar.
+
+c) Alexis de Tocqueville defendia que o governo de “filósofos-reis” se tornaria uma tendência universal.
+
+d) As Revoluções Burguesas apresentaram grande influência para a evolução do conceito de democracia.
+
+e) Jean-Jacques Rousseau argumentava que o povo não exercia nenhum poder na sociedade civil.
+
+**Gabarito: D**
+
+### Explicação da questão
+- A: Foi a concepção de democracia atribuída a Platão que restringia a participação política a alguns homens considerados aptos à vida pública, excluindo, por exemplo, escravos, estrangeiros e mulheres da dinâmica política.
+- B: Para Platão, a participação política era reduzida a alguns homens considerados aptos à vida pública.
+- C: Conforme estudamos, para Tocqueville, o regime democrático tornou-se, à época, uma tendência ampla e inevitável às sociedades, constituído, em linhas gerais, por uma igualdade de condições.
+- D: As Revoluções Burguesas – ou Revoluções Liberais – tiveram efeitos importantíssimos no desenvolvimento do conceito moderno da democracia, isso porque esses eventos foram influenciados por ideias como a igualdade de direitos, a afirmação da vontade do povo, o controle do poder estatal e defesa de liberdades individuais, as quais seriam incorporadas à perspectiva democrática do período moderno.
+- E: Segundo Rousseau, a soberania resultante de um pacto social não seria detida pelo governante, mas, sim, permaneceria em posse do povo, coletivamente.
+
+# Questão
+Leia a citação a seguir:
+
+Liberdade de expressão não pode ser usada para discurso de ódio, diz juiz
+
+Ali Mazloum, da 7.ª Vara Criminal Federal de São Paulo, nega ao Ministério Público Federal arquivamento de investigação sobre crime cibernético; internauta escreveu em rede social que “deveriam matar todos islâmicos”. (AFFONSO; VASSALLO, 2017, [s.p.])
+
+Aplicando os temas estudados nesta seção ao trecho da reportagem transcrito, podemos afirmar corretamente que:
+
+a) A percepção do juiz acerca da liberdade de expressão é equivocada, já que, no Brasil, este direito não possui limitações; a frase do internauta, portanto, revela apenas sua opinião, sem qualquer afronta à democracia nacional.
+
+b) A percepção do juiz acerca da liberdade de expressão é equivocada, uma vez que os limites da liberdade de expressão não se aplicam aos meios digitais, como as redes sociais.
+
+c) A afirmação do internauta desrespeita, a um só tempo, as liberdades de expressão e religião.
+
+d) Em razão de a comunidade islâmica brasileira ser pouco numerosa, a frase do internauta não fere os princípios democráticos brasileiros.
+
+e) A frase do internauta pode até ser considerada autoritária, mas está dentro dos limites da liberdade de expressão.
+
+**Gabarito: C**
+
+### Explicação da questão
+- A: Note que o comentário do internauta possui conteúdo evidentemente antiético e ilegal, excedendo os limites do direito à liberdade de expressão.
+- B: Ainda que a frase tenha sido manifestada em redes sociais, a liberdade de expressão é desrespeitada na medida em que o comentário possui conteúdo antiético e ilegal, excedendo os limites desse direito democrático.
+- C: Afirmar que um grupo religioso deveria ser exterminado constitui uma clara afronta à liberdade de religião, uma vez que pretende retirar um direito essencial – o direito à vida – de uma parcela da população nacional, exclusivamente em função de motivos religiosos. A liberdade de expressão, por sua vez, é desrespeitada na medida em que o comentário possui conteúdo evidentemente antiético e ilegal, excedendo os limites desse direito democrático, ainda que a frase tenha sido manifestada em redes sociais. O comentário do internauta é, portanto, uma afronta a essas liberdades fundamentais da democracia brasileira, pouco importando a quantidade de indivíduos ofendidos pela afirmação.
+- D: O comentário do internauta é uma afronta às liberdades religiosa e de expressão, pouco importando a quantidade de indivíduos ofendidos pela afirmação.
+- E: A liberdade de expressão é desrespeitada na medida em que o comentário possui conteúdo evidentemente antiético e ilegal, excedendo os limites desse direito democrático, ainda que a frase tenha sido manifestada em redes sociais.
+
+# Questão
+Conforme Goyard-Fabre (2003, p. 205), “O ponto de partida da tese de Tocqueville é a constatação que ele já fizera em sua juventude: a democracia, que tende a igualar as condições em todo lugar, ‘corre como uma torrente’ num crescente ‘irresistível’”.
+
+Analise os itens a seguir e assinale a alternativa correta:
+
+I. A igualdade de condições legais, culturais e políticas, por exemplo, tende a produzir sociedades mais homogêneas.
+
+PORQUE
+
+II. Corre-se o risco de emergir uma ‘tirania da maioria” em uma democracia.
+
+a) As afirmativas I e II estão erradas.
+
+b) As afirmativas I e II estão corretas, mas não apresentam nenhuma relação lógica entre si.
+
+c) A afirmativa I está correta e a afirmativa II está errada.
+
+d) As afirmativas I e II estão corretas, e a afirmativa II pode ser considerada uma causa da afirmativa I.
+
+e) As afirmativas I e II estão corretas, e a afirmativa I pode ser considerada uma causa da afirmativa II.
+
+**Gabarito: E**
+
+### Explicação da questão
+Segundo Alexis de Tocqueville, a democracia por ele analisada apresenta fatores geradores de igualdade, uma vez que existem elementos políticos, legais e culturais que minimizam as disparidades em meio à sociedade se comparadas, por exemplo, ao regime de castas. Essa igualdade, entretanto, poderia acentuar o compartilhamento de certos valores, pensamentos e condutas individuais em um Estado, criando uma massa homogênea que ameaçaria a liberdade de outros indivíduos caso se optasse por estabelecer um regime de “tirania da maioria”, impondo a todos suas convicções.
