@@ -1133,3 +1133,100 @@ e) As afirmativas I e II são verdadeiras, e a afirmativa I é causa da afirmati
 O conceito de gênero, desenvolvido em meio às intelectuais feministas de meados do século XX, corresponde à elaboração histórica de padrões de comportamento e sociabilidade reproduzidos ao longo do tempo em estruturas sociais, sendo, portanto, distinto das manifestações naturais referentes ao sexo biológico. Desse modo, a ênfase que o termo “gênero” conferia ao aspecto social das condutas atribuídas às mulheres distinguia-se de uma indesejada predisposição natural para o comportamento feminino, justificando, assim, que o termo “gênero” fosse trabalhado com maior frequência pelas intelectuais e movimentos feministas da época.
 
 # Questão
+Leia atentamente o texto que segue:
+
+Tratamento na Áustria busca recuperar pessoas que espalham ódio na internet
+
+Vereador de extrema-direita do país teve de fazer seis meses de terapia por ordem da Justiça
+‍[...]
+
+Respondendo a um anúncio que mostrava um homem branco e outro não branco segurando um bebê, Weber fez comentários homofóbicos e racistas, descrevendo a imagem como "sujeira" e usando uma palavra depreciativa para "negro". Depois ele pediu desculpas e ofereceu sua renúncia, que não foi aceita pelo partido.
+
+Agora um tribunal austríaco enviou Weber para um programa de aconselhamento de seis meses que lhe ensinará como se comportar na internet. As autoridades também vão examinar as possíveis origens das ideias racistas e homofóbicas de Weber — e a menos que ele demonstre arrependimento e melhora, poderão reenviá-lo à Justiça. [...] (Disponível em: https://bit.ly/2VSRc0f. Acesso em: 31 jan. 2019.)
+
+A partir do trecho da reportagem, anteriormente citado, escolha a alternativa correta:
+
+a) Diferentemente do Brasil, os países europeus apresentam uma única etnia, muito bem definida, motivo pelo qual o comentário de Weber possui fundamentação científica.
+
+b) O comentário de Weber a respeito da cor de pele do homem do anúncio, utilizando termo depreciativo, não pode ser classificado como xenofobia, uma vez que a ofensa não foi feita a um estrangeiro.
+
+c) O acontecimento narrado na reportagem trata de um caso isolado, já que a internet não costuma ser usada para a propagação de ideias extremistas.
+
+d) Termos como “tratamento”, “busca recuperar pessoas”, “arrependimento e melhora” reafirmam a ideia de que o fanatismo muitas vezes esconde profundos medos e fragilidades dos indivíduos.
+
+e) O trecho transcrito nos permite afirmar, com toda certeza, que as ofensas de Weber são de cunho ultranacionalista.
+
+**Gabarito: D**
+
+### Explicação da questão
+As ofensas descritas – tão frequentes nas mídias digitais – constituem um claro exemplo de xenofobia, uma vez que os ataques expressam o ódio sentido pelo vereador austríaco contra alguém percebido como diferente de seu grupo social, em função da cor da pele e da orientação afetivo-sexual. A nacionalidade da vítima é indiferente para que se configure o ato xenófobo, uma vez que tal prática pode ser motivada por qualquer diferenciação percebida pelo agressor – como raça, etnia ou religião –, ainda que agressor e vítima compartilhem a mesma nacionalidade. No caso de práticas ultranacionalistas, entretanto, é justamente a nacionalidade o fator de discriminação, algo que não podemos identificar nas ofensas de Weber.
+
+Percepções modernas a respeito de movimentos de intolerância costumam identificar que posturas agressivas e opressoras praticadas por esses indivíduos são frequentemente justificadas por sentimentos de fragilidade existentes em suas personalidades. Assim, sem saber lidar com certas vulnerabilidades, esses indivíduos recorrem ao ódio como forma de expressão.Adicionalmente, há que se reconhecer que as sociedades contemporâneas – sejam elas a brasileira ou europeias – resultam de uma miscigenação de grupos étnicos distintos, motivo pelo qual a discriminação étnica ou racial não apresenta fundamentação sob bases científicas.
+
+# Questão
+Leia atentamente o excerto de texto que segue:
+
+Em seis meses, Brasil teve mais de 200 casos de intolerância religiosa
+Apesar de a Constituição Federal garantir o respeito à liberdade religiosa, agressões a pessoas ou locais de culto continuam ocorrendo em todo o país
+
+Constitucionalmente, o Brasil é laico há mais de 120 anos e não discrimina nenhuma religião. Na prática, o país ainda mostra as faces da intolerância religiosa, com agressões físicas, xingamentos, depredações, destruições de imagens, tentativas de homicídio e incêndios criminosos. Levantamento feito pelo Ministério dos Direitos Humanos (MDH), com base nas ligações para o Disque 100, aponta que, no primeiro semestre deste ano, foram registradas 210 denúncias de discriminação por religião [...].
+
+(Disponível em: https://bit.ly/2WjuSOf. Acesso em: 31 jan. 2019.)
+
+Com base no trecho da reportagem disponibilizado e nos estudos desenvolvidos, analise as afirmativas seguintes:
+
+I. O fato de o Brasil ser um Estado laico significa que, apesar de o país ter uma religião oficial, nenhuma crença pode ser discriminada.
+
+II. Conforme demonstra a reportagem, a intolerância religiosa só pode ser praticada pela sociedade civil, nunca pelos órgãos públicos.
+
+III. O Brasil nem sempre foi um Estado laico.
+
+IV. Ao afirmar a laicidade do Brasil, pressupomos que este país pratica a neutralidade do Estado em relação às questões religiosas, valoriza a liberdade de religião e o pluralismo.
+
+De acordo com o excerto de texto apresentado, escolha a alternativa correta:
+
+a) São corretas apenas as afirmativas I, II e III.
+
+b) São corretas apenas as afirmativas II e III.
+
+c) Apenas a afirmativa IV é correta.
+
+d) Nenhuma das afirmativas é correta.
+
+e) São corretas apenas as afirmativas III e IV.
+
+**Gabarito: E**
+
+### Explicação da questão
+Se na Constituição do Império Brasileiro o país adotava uma religião oficial do Estado, a atual laicidade do Brasil estipula que há neste país uma neutralidade do Estado em relação às questões religiosas, não existindo, portanto, uma religião oficial e valorizando-se a liberdade de religião e o pluralismo. Entretanto, como demonstra a reportagem, existem ainda casos de intolerância religiosa no país, os quais podem ter como autores tanto a sociedade civil – sob a forma de agressões, xingamentos, depredações, entre outras práticas – quanto autoridades e órgãos estatais – a exemplo da limitação legal de cultos religiosos, da imposição forçada de uma crença religiosa por entidades públicas ou da restrição de direitos a um grupo religioso.
+
+# Questão
+Leia a citação a seguir:
+
+A ciência explica como desarmar argumentos de negacionistas
+Pensamento crítico é fundamental para impedir que informações falsas continuem circulando entre a sociedade
+
+A ampla disseminação de notícias falsas e o efeito da pós-verdade tornou a vida dos amantes da ciência um tanto desanimadora. Afinal, ninguém gostaria de estar explicando que a Terra não é plana em pleno século 21.
+
+Para combater isso, pesquisadores publicaram um artigo para ajudar você a desmascarar afirmações falsas. “A desinformação se espalha facilmente e pode ter consequências profundas para a sociedade, se não for corrigida”, analisa John Cook, pesquisador da Universidade George Mason, nos Estados Unidos, e um dos autores do estudo.
+
+Os cientistas selecionaram 42 sentenças comuns entre os negacionistas e demonstraram que todas elas tinham um raciocínio falacioso e falharam em refutar as provas científicas sobre o aquecimento global [...].
+
+(Disponível em: https://glo.bo/2ETpEkn. Acesso em: 31 jan. 2019.)
+
+Assinale a alternativa que aplica corretamente os conceitos estudados ao trecho transcrito:
+
+a) “A ampla disseminação de notícias falsas” constitui um fenômeno que sempre ocorreu, com a mesma intensidade, em toda a história humana.
+
+b) A utilização de mídias digitais facilita o controle das informações divulgadas, reduzindo a “desinformação” que “se espalha facilmente”.
+
+c) As conclusões do IPCC são exemplos típicos do argumento negacionista de que trata o texto.
+
+d) O artigo que ajuda a “desmascarar afirmações falsas” é de extrema utilidade prática, uma vez que os artigos negacionistas constituem a grande maioria da produção científica especializada sobre o tema do aquecimento global.
+
+e) O trecho “um raciocínio falacioso e falharam em refutar as provas científicas sobre o aquecimento global” faz alusão aos argumentos pseudocientíficos levantados pelos negacionistas.
+
+**Gabarito: E**
+
+### Explicação da questão
+A disseminação de notícias falsas, também conhecidas como “fake news”, foi intensificada com o advento das mídias digitais, sendo um dos motivos para esse fenômeno a dificuldade de controlar o fluxo de informações no meio digital. Nesse contexto, quando tratamos do aquecimento global, argumentos negacionistas, que fundamentam uma parcela minoritária dos artigos científicos sobre o tema e contrariam as conclusões proferidas pelo IPCC, podem ser considerados como pseudocientíficos na medida em que não resistem a avaliações científicas mais rigorosas.
