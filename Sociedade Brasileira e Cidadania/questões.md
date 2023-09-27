@@ -857,3 +857,5 @@ Ressalta-se que a crítica de Edward Said nos ajuda a entender a expansão da cu
 Assim, podemos entender que as relações hierárquicas entre as culturas estão enraizadas nas sociedades, não sendo construídas apenas individualmente.
 - D: A produção do conhecimento não é isenta de relações de poder e dominação.
 - E: A crítica proposta por Edward Said se aplica, sim, à história colonial da América Latina.
+
+# Questão
