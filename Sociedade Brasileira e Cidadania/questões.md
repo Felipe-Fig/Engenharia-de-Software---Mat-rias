@@ -1051,3 +1051,85 @@ e) As afirmativas I e II estão corretas, e a afirmativa I pode ser considerada 
 
 ### Explicação da questão
 Segundo Alexis de Tocqueville, a democracia por ele analisada apresenta fatores geradores de igualdade, uma vez que existem elementos políticos, legais e culturais que minimizam as disparidades em meio à sociedade se comparadas, por exemplo, ao regime de castas. Essa igualdade, entretanto, poderia acentuar o compartilhamento de certos valores, pensamentos e condutas individuais em um Estado, criando uma massa homogênea que ameaçaria a liberdade de outros indivíduos caso se optasse por estabelecer um regime de “tirania da maioria”, impondo a todos suas convicções.
+
+# Questão
+Leia a citação a seguir:
+
+Igualdade salarial entre homens e mulheres é lei. Por que não é cumprida?A legislação brasileira garante a igualdade salarial entre homens e mulheres na CLT (Consolidação das Leis do Trabalho) desde 1943. No texto, a determinação de que salários devem ser iguais "sem distinção de sexo" aparece em pelo menos quatro artigos: no 5º, no 46, no 373-A e no 461.O tema também é abordado no artigo 7º da Constituição de 1988, que proíbe a "diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil".
+
+O tema também é abordado no artigo 7º da Constituição de 1988, que proíbe a "diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil".
+
+Mas a desigualdade salarial entre os gêneros persiste no Brasil. O país ocupa o 132º lugar no ranking do Fórum Econômico Mundial, de uma lista de 149 nações, sobre equidade salarial para trabalho similar, formulado em 2018. Um ano antes, ocupava a 119º posição. Mas por que, apesar de haver leis claras sobre o assunto, homens ainda recebem mais do que mulheres? (Disponível em: https://bit.ly/2Cc5GAY. Acesso em: 21 jan. 2019).
+
+A alternativa que apresenta corretamente possíveis respostas para a pergunta que encerra o trecho da reportagem transcrita é:
+
+a) Homens recebem mais do que mulheres, pois o sexo masculino realmente apresenta uma maior disposição natural para assumir cargos de liderança.
+
+b) Um possível motivo pelo qual homens recebem mais do que mulheres é o fato de que, no Brasil, ainda existem concepções acerca do gênero feminino repletas de preconceitos socialmente construídos, que podem prejudicar o desenvolvimento profissional das mulheres.
+
+c) Um possível motivo pelo qual homens recebem mais do que mulheres é o fato da licença-maternidade ser um benefício excepcional para as mulheres, devendo ser compensado por salários maiores aos homens.
+
+d) Um possível motivo pelo qual homens recebem mais do que mulheres é o fato de que a natureza feminina apresenta uma predisposição para dividir seu tempo entre os afazeres domésticos e o trabalho fora de casa.
+
+e) Não há qualquer motivo relacionado ao sexo biológico que possa explicar o fato de homens receberem mais do que mulheres. Não há, tampouco, qualquer explicação no que se refere aos padrões de gênero atribuídos aos sexos masculino e feminino no Brasil contemporâneo.
+
+**Gabarito B**
+
+### Explicação da questão
+A persistência, na sociedade brasileira contemporânea, de certos modelos de comportamento histórica e socialmente atribuídos ao gênero feminino pode ser prejudicial ao desenvolvimento profissional das mulheres, isso porque a existência de ideias preconceituosas – e não verdadeiras – de que mulheres não podem assumir postos de liderança, de que o sexo feminino estaria mais apto ao trabalho doméstico, por exemplo, podem impor obstáculos adicionais ao trabalho feminino, os quais não são naturais, mas, sim, expressam uma relação desigual de poder socialmente construída.
+
+# Questão
+Leia a citação a seguir:
+
+Em A Garota Dinamarquesa, Eddie Redmayne interpreta alguém que não se vê no corpo de um homem. Ok, ele é Einar Wegener, um pintor dinamarquês, casado, de relativo sucesso. Mas quer assumir sua identidade feminina. (Disponível em: https://bit.ly/2HrPSh1. Acesso em: 21 jan. 2019)
+
+O trecho transcrito faz parte de uma crítica ao filme A garota dinamarquesa (dir. Tom Hooper, Reino Unido / Estados Unidos, 2015.). Pelas informações contidas na passagem transcrita, podemos afirmar corretamente que o personagem interpretado por Eddie Redmayne é:
+
+       1       , uma vez que seu/sua        2        difere do/da        3       . Assinale a alternativa que preenche corretamente as lacunas 1, 2 e 3:
+
+a) 1. cisgênero; 2. sexo biológico; 3. orientação afetivo-sexual.
+
+b) 1. cisgênero; 2. identidade de gênero; 3. gênero biológico.
+
+c) 1. transgênero; 2. gênero; 3. gênero biológico.
+
+d) 1. transgênero; 2. identidade de gênero; 3. gênero a ele originalmente atribuído.
+
+e) 1. cisgênero; 2. orientação afetivo-sexual; 3. gênero a ele originalmente atribuído.
+
+**Gabarito: D**
+
+### Explicação da questão
+Se gênero é um conceito socialmente construído, e não biológico; se identidade de gênero corresponde à percepção do próprio indivíduo acerca de sua classificação frente aos gêneros observados, independentemente do sexo biológico; e se o transgênero se identifica com um gênero distinto daquele que lhe foi originalmente designado, podemos concluir que esse “alguém” interpretado por Eddie Redmayne foi originalmente designado pelo gênero masculino, entretanto sua identidade de gênero é feminina, fazendo do personagem um transgênero.
+
+# Questão
+Leia a citação a seguir:
+
+No entanto, a partir da década de 1960, começando nos EUA, mas espalhando-se rapidamente pelos países ricos do Ocidente e além, nas elites de mulheres educadas do mundo dependente — mas não, inicialmente, nos recessos do mundo socialista —, encontramos um impressionante reflorescimento do feminismo. Embora esses movimentos pertencessem, essencialmente, ao ambiente de classe média educada, é provável que na década de 1970, e sobretudo na de 1980, uma forma política e ideologicamente menos específica de consciência feminina se espalhasse entre as massas do sexo (que as ideólogas agora insistiam que devia chamar-se “gênero”), muito além de qualquer coisa alcançada pela primeira onda de feminismo. (HOBSBAWM, 1995, p. 244, grifo nosso)
+
+Agora, analise estas afirmativas:
+
+I. O conceito de gênero, socialmente constituído, contraria a ideia de que existem comportamentos naturais atribuíveis ao sexo biológico feminino.
+
+PORQUE
+
+II. As intelectuais feministas da segunda metade do século XX preferem usar o termo “gênero”.
+
+A partir do trecho do livro de Eric Hobsbawm e das afirmativas anteriores, assinale a alternativa correta:
+
+a) A afirmativa I é falsa e a afirmativa II é verdadeira.
+
+b) A afirmativa II é falsa e a afirmativa I é verdadeira.
+
+c) As afirmativas I e II são verdadeiras, mas não há relação lógica entre elas.
+
+d) As afirmativas I e II são verdadeiras, e a afirmativa II é causa da afirmativa I.
+
+e) As afirmativas I e II são verdadeiras, e a afirmativa I é causa da afirmativa II.
+
+**Gabarito: E**
+
+### Explicação da questão
+O conceito de gênero, desenvolvido em meio às intelectuais feministas de meados do século XX, corresponde à elaboração histórica de padrões de comportamento e sociabilidade reproduzidos ao longo do tempo em estruturas sociais, sendo, portanto, distinto das manifestações naturais referentes ao sexo biológico. Desse modo, a ênfase que o termo “gênero” conferia ao aspecto social das condutas atribuídas às mulheres distinguia-se de uma indesejada predisposição natural para o comportamento feminino, justificando, assim, que o termo “gênero” fosse trabalhado com maior frequência pelas intelectuais e movimentos feministas da época.
+
+# Questão
