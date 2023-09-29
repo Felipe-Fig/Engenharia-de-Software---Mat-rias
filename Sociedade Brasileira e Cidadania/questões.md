@@ -1230,3 +1230,229 @@ e) O trecho “um raciocínio falacioso e falharam em refutar as provas científ
 
 ### Explicação da questão
 A disseminação de notícias falsas, também conhecidas como “fake news”, foi intensificada com o advento das mídias digitais, sendo um dos motivos para esse fenômeno a dificuldade de controlar o fluxo de informações no meio digital. Nesse contexto, quando tratamos do aquecimento global, argumentos negacionistas, que fundamentam uma parcela minoritária dos artigos científicos sobre o tema e contrariam as conclusões proferidas pelo IPCC, podem ser considerados como pseudocientíficos na medida em que não resistem a avaliações científicas mais rigorosas.
+
+# Questão
+O filósofo Aristóteles (384-322 a.C.) afirma que a felicidade humana está ligada ao pleno exercício da natureza cívica e a satisfação individual representa a valorização do convívio coletivo da existência humana.
+
+De acordo com esse pensamento, analise a relação entre as afirmações:
+
+I- As sociedades domésticas e os indivíduos são o corpo inteiro da cidade, a estrutura e finalidade, portanto, pode ser comparada com uma divindade.
+
+Porque
+
+II- O indivíduo pode sobreviver sem o todo, essa é a inclinação natural dos homens.
+
+Sobre essas duas afirmações, é correto afirmar que:
+
+**Gabarito: I e II são falsas**
+
+> Detalhe que eu econtrei na internet, como correta, a alternativa "As duas são verdadeiras, e a segunda é uma justificativa correta da primeira.". Não consegui confirmar ainda.
+
+# Questão
+A corrupção é um fenômeno complexo, e para entendê-la, temos que considerar um conjunto variado de fatores. Entre eles o desrespeito generalizado da sociedade com o bem público, sobretudo no que se refere à "forma de governar" dos partidos políticos, mas também à forma de a sociedade brasileira se relacionar com o público. 
+
+Pensando assim, avalie as afirmações
+
+I- É um dos fatores do fenômeno da corrupção a relação concentrada entre o poder político e econômico.
+
+II- As desigualdades sociais, a falta de garantia de direitos econômicos, políticos, culturais aprofundam e legitimam o aprofundamento da corrupção.
+
+III - O papel de subordinação do Brasil no mercado mundial e o distanciamento do poder político em defesa e representação dos interesses da população brasileira, leva ao aprofundamento da corrupção.
+
+Assinale a alternativa correta:
+
+**Gabarito: I, II e III estão corretas.**
+
+> Também encontrei referências falando que "Apenas I e II estariam corretas".
+
+# Questão 
+Os direitos e garantias fundamentais previstos na Constituição Federal Brasileira de 1988 são essencialmente voltados a "criar e manter os pressupostos elementares de uma vida na liberdade e na dignidade humana" (BONAVIDES, 2004, p. 560).
+
+Considerando as quatro gerações dos direitos fundamentais, associe as duas colunas, relacionando os direitos fundamentais à sua definição.
+
+1.    primeira geração dos direitos fundamentais.\
+2.    segunda geração dos direitos fundamentais.\
+3.    terceira geração dos direitos fundamentais.\
+4.    quarta geração dos direitos fundamentais.
+
+(_) direitos sociais, culturais, econômicos e coletivos\
+(_) garantias universais para o gênero humano, paz entre os povos, preservação do meio ambiente, comunicação livre, patrimônio comum da humanidade.\
+(_) universalização dos direitos fundamentais, direitos à democracia, a informação e ao pluralismo.\
+(_) direitos individuais, direitos civis e políticos.
+
+A sequência correta dessa associação é:
+
+**Gabarito: 2, 3, 4, 1**
+
+# Questão
+A Comissão Nacional da Verdade (Lei n° 12.528, BRASIL, 2011), demonstra como a ditadura militar de
+1964-1985 no Brasil caracterizou-se como um período violento, com crimes hediondos contra a humanidade, tortura, assassinatos, desaparecimentos, perseguições, estupros de mulheres opositoras ao regime entre tantas outras brutalidades. 
+
+Refletindo sobre as violências cometidas pelo Estado, analise as afirmações.
+
+I- No Brasil, os povos originários, os negros e os pobres são marcados pela violência do Estado punitivista e muitas vezes com a anuência das mídias: " bandido bom é bandido morto"
+
+II- Os regimes ditatoriais que se disseminaram em vários países, na década de 1960, como Argentina, Chile, Uruguai e Brasil, são exemplos de crimes contra a humanidade, pela prática da tortura de dissidentes políticos.
+
+III- A lógica do punitivismo, do castigo e da pena, presente nos momentos mais obscuros e mortíferos da humanidade, foi superada hoje no Brasil e não é mais encontrada em nenhum aspecto do funcionamento do Estado democrático brasileiro.
+
+Assinale a alternativa correta:
+
+**Gabarito: As afirmações I e II estão corretas.**
+
+# Questão
+O termo política, decididamente, se insere no rol de termos utilizados cotidianamente que, no entanto, não apresenta uma conceituação evidente ou que apresenta apenas um único sentido.
+
+Com base em seus estudos sobre a pluralidade de significados aplicados a esse vocábulo, avalie as asserções:
+
+I-A raiz da palavra "política" encontra-se no idioma grego, que exprime os afazeres típicos da condução da vida coletiva da polis, a cidade-Estado da antiguidade grega.
+
+II-A palavra política direcionada à identificação das atividades de governo quando exercida pelos poderes públicos, pode ser entendida como uma forma de administração do poder público, sob a forma do Estado.
+
+III-Quando mencionamos as políticas das empresas privadas, podemos pensar sobre os princípios e as formas com que as organizações são regidas.
+
+Assinale a alternativa correta.
+
+**Gabarito: I, II e III estão corretos**
+
+# Questão
+De acordo com o filósofo Hobbes (1588-1679), o Estado deve assegurar a preservação de todos os indivíduos, garantindo a possibilidade de uma vida menos embrutecida e curta como era de se esperar no estado de natureza. Essa teoria política tem como base a paixão do medo, que significa:
+
+**Gabarito: A presença de um iminente perigo, já que os indivíduos constituiriam ameaças uns aos outros.**
+
+# Questão
+"O gênero não deve ser meramente concebido como a inscrição cultural de significado num sexo previamente dado", defende Butler (2010, p. 25), "[..] tem de designar também o aparato mesmo de produção mediante о qual os próprios sexos são estabelecidos." Disponível em: https://www.geledes.org.br/o-conceito-de-genero-por-judith-butler-a-questao-da-performatividade/.
+
+Sobre a performances de gênero, analise as afirmações:
+
+I- A performance de gênero resulta da elaboração social e da repetição de gestos, atitudes, posturas.
+práticas e significados, que foram historicamente associados aos corpos masculino e feminino
+
+II- Em nossa sociedade contemporânea uma ordem compulsória, exclusivamente heterossexual, estabelece uma relação fixa entre um determinado sexo, um gênero e um desejo.
+
+III- Existe uma restrição às possíveis relações entre sexo, gênero e desejo, pois casos que se desviam das relações compulsórias em que há apenas homens e mulheres heterossexuais, não reconhecem outras formas plurais de relacionamentos.
+
+Assinale a alternativa correta:
+
+**Gabarito: Somente a afirmação III está correta**
+
+# Questão
+A mutabilidade histórica do conceito de cidadania perpassa não apenas por seus significados práticos, no campo da experiência humana concreta, mas também pelo nível do simbólico. Neste sentido, o significado construído ao redor do conceito de cidadania envolve duas questões primordiais, que são: o campo dos valores e das práticas dos direitos e, em uma esfera distinta, a efetividade e/ou reconhecimento desses mesmos direitos.
+
+Sobre o conceito de cidadania, analise a relação das afirmações.
+
+I- O cidadão ateniense é pensado como um ser indissociável da cidade, o que acompanha o direito de opinar sobre o seu destino. Quando o cidadão ateniense participava das assembleias, não distinguia os seus interesses pessoais dos interesses da polis.
+
+Porque
+
+II- No exercício da cidadania se manifestam elementos de maior relevância, como a soberania popular e a justiça que emana do povo.
+
+Assinale a alternativa correta.
+
+**Gabarito: As afirmações I e II são verdadeiras e a II é uma justificativa da I.**
+
+# Questão
+É fato que a Constituição de 1988 é a maior expressão de um pacto de civilização que devolveu ao Brasil a possibilidade de caminhar em direção ao respeito da cidadania. Contudo, as imperfeições e impasses em relação a cidadania e as desigualdades, compõem o atual cenário da sociedade brasileira, apesar de termos a consciência de que a Constituição de 1988 é um instrumento para que a cidadania seja efetivada à todas e todos brasileiros e brasileiras.
+
+Nesse sentido, analise a relação entre as afirmações:
+
+I- O exercício da participação ativa, da reivindicação aos direitos sociais, políticos, econômicos e culturais e da luta para que sejam efetivados conforme a Constituição de 1988, é o único caminho para que a cidadania no Brasil deixe de ser apenas um direito formal e torne-se realidade.
+
+Porque
+
+II- No contexto nacional, o Brasil pode ser caracterizado como uma sociedade formada por imigrantes (africanos, europeus, asiáticos etc.), por isso, não se estabeleceu na Constituição de 1988, reconhecimento da cidadania, dos direitos sociais e políticos a todos os indivíduos.
+
+Assinale a alternativa correta.
+
+**Gabarito: A afirmação I é verdadeira e a II é falsa**
+
+# Questão
+De acordo com as teses de Hannah Arendt (1906-1975), os seres humanos têm a capacidade de fazer reflexões, nesse sentido, existiria um comprometimento de cada indivíduo, ainda que ele não seja voluntariamente assumido, de estabelecer juízos e pensar a respeito dos acontecimentos. Assim, analise a relação entre as proposições.
+
+I-A responsabilidade é uma aptidão humana, para a percepção de Hannah Arendt,
+
+Porque
+
+II-Existem fortes vínculos entre o indivíduo e a sociedade em sua compreensão da liberdade, por isso, todo ser humano dispõe de condições racionais para avaliar a justiça ou a injustiça da conduta alheia.
+
+Assinale a alternativa correta.
+
+**Gabarito: As afirmações I e II são verdadeiras, mas não se relacionam entre si**
+
+# Questão
+Complete as lacunas.
+
+Para Habermas o respeito pela democracia e pelos direitos fundamentais na atual configuração das sociedades com uma alta composição de imigrantes e refugiados só pode ocorrer no quadro de uma ______ formada por ____ .
+
+As palavras que completam, corretamente, essas lacunas são:
+
+**Gabarito: sociedade mundial, cidadãos do mundo**
+
+# Questão
+Leia atentamente e complete:
+A ____ pressupõe um sistema político no qual a condução dos afazeres da sociedade é
+definida pelos cidadãos agindo diretamente neste processo de tomada de decisões ou por meio de representantes eleitos para tal finalidade. Esse tipo de governo compõe os aspectos substantivos das condições de vida experimentadas pelos ____ incluindo variáveis como o bem-estar humano, a preservação do sentimento de segurança, a proteção de ____ e a capacidade de resolução de conflitos de uma sociedade.
+
+**Gabarito: democracia, cidadãos, minorias**
+
+# Questão
+O economista indiano Amartya Sen (1933 - ), autor de importante crítica ao individualismo, apresenta o exemplo do sucesso da economia japonesa, que diferentemente dos modelos ocidentais clássicos, afastou-se em vários momentos do comportamento autointeressado dos indivíduos e acolheu o dever, a lealdade e a boa vontade em favor do bem comum, conseguindo aliar vigor econômico e elevados índices de bem-estar social, nomeadamente com alguns dos melhores indicadores de distribuição de renda do mundo.\
+L.M.Luzio dos. Ética e Democracia econômica: caminhos para a socialização da economia. São Paulo: Ideias 8Letras, 2020.
+
+De acordo com o pensamento de Sen, avalie as asserções
+
+I- A valorização daquilo que é útil, racional, produtivo ou eficiente, critérios importantes do regime econômico que vigora no Brasil e em grande parte do mundo, não deve se desconectar daquilo que é ético.
+
+II- Tratar a produção e a distribuição da riqueza apenas por ponderações matemáticas do que seria mais eficiente ou lucrativo, ou limitar o comportamento humano ao egoísmo individualista - cada um cuidando da sua vida -, seria um grave erro uma vez que a ética constitui qualidade fundamental para o sistema econômico.
+
+III- O exemplo da economia japonesa, citada por Sem (1933 - ) demonstra o peso da cultura e dos laços sociais na construção de uma sociedade capaz de ultrapassar o monopólio do individualismo.
+
+Assinale a alternativa correta:
+
+**Gabarito: Estão corretas as afirmações I; II; III**
+
+# Questão
+De acordo com a filósofa Hannah Arendt (1906-1975), a consciência da liberdade advém do relacionamento entre os seres humanos e a ação e a orientação de como deve-se agir é resultado de uma escolha. Para usufruir da liberdade, o homem deve agir, e essa ação deve ser o resultado de uma escolha, definindo assim o acesso para renovar e potencializar a participação na comunidade.
+
+Pensando assim, assinale as afirmações sobre Liberdade para Arendt.
+
+I- O exercício da liberdade, sob a perspectiva privada, estaria vinculado à busca constante pelo acúmulo de riquezas ou ao consumo desenfreado, reduzindo a vida humana a um ciclo de trabalho árduo, automatizado e superficial, no qual a exploração e a insatisfaço pessoal se tornariam constantes.
+
+II- Para Arendt a liberdade está vinculada ao conceito do exercício de práticas públicas, a liberdade política é uma atividade executada pelos homens por meio do convívio entre eles, sendo a liberdade política uma atividade estritamente da vida pública.
+
+III - A classificação da liberdade enquanto ação política ressalta a potência que existe nesse valor, uma vez que estimula a ação conjunta que decidirá sobre coisas de interesse comum, estabelecendo constantemente novas formas de construir a realidade.
+
+IV- Os estudos da filósofa Hannah Arendt demonstram os fortes vínculos entre o indivíduo e a sociedade, contudo, evidencia que o ser humano não tem aptidão à responsabilidade.
+
+Assinale a alternativa correta:
+
+**Gabarito: As afirmações I; II; III estão corretas**
+
+# Questão
+Sobre a cidadania no período da Idade Média e na Idade moderna, na Europa, observa-se o distanciamento do sentido de cidadania ateniense para a apropriação da noção de cidadania greco-romana, colocando a participação ativa dos indivíduos na vida pública, em segundo plano.
+
+Pensando sobre a perspectiva de cidadania na idade moderna, coloque V (verdadeiro) F (falso) nas afirmações a seguir.
+
+(_) O cidadão moderno tem o direito de participar do governo de sua vida, de sua cidade e de seu Estado, ser cidadão invoca um regime republicano em seu sentido universal.\
+(_) Hoje, cidadão moderno mantêm sua posição de vassalo e súdito fiel aos mandos e desmando da aristocracia e do rei, sem alteração com relação à Idade Média.\
+( ) Para Rousseau, a cidadania não é um presente, mas um dever de participação política na defesa do interesse geral, que é universal a todos os cidadãos, acima dos interesses particulares e individuais.\
+(_) A Declaração Francesa de 1789, largamente influenciada pelos pensadores da lustração, em especial Rousseau, também representou um marco para a questão da cidadania, postulando a liberdade individual e a igualdade de direitos entre os homens desde seu nascimento.
+
+Assinale a sequência correta:
+
+**Gabarito: V, F, V, V**
+
+# Questões
+De acordo com estudiosos do tema cidadania, grandes retrocessos ocorreram no século XX com os regimes totalitários, como o fascismo na Itália, o nazismo na Alemanha, e o stalinismo na URSS. Esses regimes têm como característica principal a negação dos direitos políticos da população em favor de um regime autoritário com poderes ilimitados para tomar todas as decisões do governo de um Estado.
+
+Sobre as tensões políticas e sociais vividas pelos cidadãos no século XX, analise as asserções:
+
+I- As lutas pelo direito ao voto, empreendidas pelos grupos sociais de mulheres, operários, negros e indígenas, resultaram em avanços e conquistas de direito ao voto.
+
+II- O século XX na América Latina foi marcado por ditaduras que consideravam o direito de participação política uma ameaça. O Estado brasileiro patrocinou fortes repressões e violências, com vigilância e prisões ilegais, tortura e desaparecimentos de cidadãos.
+
+III - O caráter oligárquico da Republica Brasileira de 1889 representada pela influência dos coronéis, ricos fazendeiros que atuavam como oligarcas locais nas regiões mais pobres do interior do país, agiam em prol da justiça e contra os mecanismos de coerção desenvolvidos pelo voto de cabresto.
+
+Assinale a alternativa correta:
+
+**Gabarito: As afirmações II e III estão corretas**
