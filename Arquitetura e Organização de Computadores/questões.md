@@ -137,3 +137,96 @@ e) Unidade Central de Processamento - CPU, Unidade Lógica e Aritmética - ULA e
 ### Explicação da questão
 Barramento é um conjunto de linhas de comunicação que permitem a interligação entre dispositivos, como a CPU, a memória e outros periféricos. São as linhas de transmissão que transmitem as informações entre o processador, memória e todos os demais periféricos do computador.
 Praticamente todos os componentes de um computador, como processadores, memórias, placas de vídeo e diversos outros, são conectados à placa-mãe a partir do que chamamos de barramento. Sem entrar em termos técnicos, ele é o encaixe de que cada peça precisa para funcionar corretamente.
+
+# Questão
+Texto base: Convertendo o valor 237 (base 10), chegamos no valor hexadecimal:
+
+Alternativas:
+
+a) 0xED.\
+b) 0xFD.\
+c) 0xDE.\
+d) 0xA1.\
+e) 0xBF.
+
+**Gabarito: A**
+
+### Explicação da questão
+As notações que eles usaram são novidade pra mim. Sempre vi hexadecimais começando com `0x` e os decimanis sem notação alguma. Eles usaram um 16 e um 10 no final dos números, só achei que ficou confuso, por isso mudei aqui na resposta, mas fica a explicação para quem não sabia.
+
+A questão pode ser feita facilmente em algum conversor de decimal para hexadecimal na internet, apenas para conferir o resultado. De toda forma, se fosse fazer "na mão", seria da seguinte forma: 
+- 237 / 16 = 14 (com resto 13)
+- Lendo os resultados de "trás pra frente", começamos da direita da divisão, no caso o 14, que é 0xE.
+- Logo após pegamos o 13, o resto da divisão, que é 0xD.
+- Juntamos ambos e temos 0xED.
+
+# Questão
+Em uma conversão de decimal para binário ou hexadecimal, o quociente:
+
+Alternativas:
+
+a) Será a soma do dividendo com o divisor.\
+b) Será o número depois da vírgula.\
+c) Será o número normal, mesmo sendo fração.\
+d) Será o número arredondado, por exemplo 6,78 é arredondado para o inteiro 7.\
+e) Será o número inteiro (a esquerda da vírgula).
+
+**Gabarito: E**
+
+# Questão
+Que método é utilizado para conversão de hexadecimal para octal?
+
+Alternativas:
+
+a) Divisão sucessiva por 8.\
+b) Substituição usando a tabela de valores – binário e depois para octal.\
+c) Potenciação pela base 16.\
+d) Potenciação pela base 8.\
+e) Divisão sucessiva por 16.
+
+**Gabarito: B**
+
+# Questão
+A característica dessa porta lógica é que as duas preposições têm de ser verdadeiras (Stallings, 2003).
+
+Qual é a porta lógica a que esta definição está se referindo?
+
+Alternativas:
+
+a) OR\
+b) AND\
+c) XOR\
+d) NAND\
+e) NOR
+
+**Gabarito: B**
+
+# Questão
+Conforme Stallings (2013) a metodologia Pipeling é utilizada em processadores de grande porte e com o uso desta metodologia, é possível implementar arquitetura do tipo RISC, isto é, conjunto de instruções reduzidas. Sabendo-se deste conceito, é necessário saber da viabilidade da aplicação essa metodologia em servidores, afim de melhorar o desempenho (rapidez) no desempenho de atividades mais robustas envolvendo processamento de imagens de grande quantidade de pixels, para utilização de recursos de computação gráfica avançada.
+
+Considerando o contexto, avalie as afirmativas a seguir:
+
+I.  A possibilidade de acelerar a execução das instruções, compactando várias delas em uma única operação de leitura e execução paralela, conduziu ao tipo palavra longa de instrução ou Very Long Instruction Word (VLIW).
+
+II. O paralelismo permite acelerar o começo e o término das execuções das instruções de máquina, criando internamente mecanismos nos processadores para permitir a execução de mais de uma instrução de forma concorrente.
+
+III. Foram desenvolvidos muitos modos de implementar o paralelismo através de um tipo novo de tecnologia ou uma maneira diferente de reduzir o tempo de execução das instruções e, consequentemente, melhorar o desempenho do sistema.
+
+IV. O método Very Long Instruction Word (VLIW) utiliza bastante o compilador para produzir seus resultados, o uso intenso e completo de paralelismo aponta para o emprego de multiprocessamento, um sistema constituído de diversos processadores.
+
+Considerando o contexto apresentado, é correto o que se afirma em:
+
+Alternativas:
+
+a) III e IV, apenas.\
+b) I e II, apenas.\
+c) I, II e IV, apenas.\
+d) I, II e III, apenas.\
+e) I, II, III e IV.
+
+**Gabarito: E**
+
+### Explicação da questão
+- I = (Very Long Instruction Word (VLIW) or VLIW Machines. VLIW uses Instruction Level Parallelism) E (Instruction Level Parallelism (ILP) is used to refer to the architecture in which multiple operations can be performed parallelly in a particular process)
+- II E IV = Paralelismo é sobre a execução paralela de tarefas, ou seja, mais de uma por vez (de forma simultânea), a depender da quantidade de núcleos (cores) do processador. Quanto mais núcleos, mais tarefas paralelas podem ser executadas. É uma forma de distribuir processamento em mais de um núcleo.
+- III = Como tudo que temos, sempre evoluí.v
