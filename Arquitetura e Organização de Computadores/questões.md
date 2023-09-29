@@ -132,7 +132,7 @@ c) Unidade Central de Processamento - CPU, Unidade Lógica e Aritmética - ULA e
 d) Unidade Central de Processamento - CPU, Unidade Lógica e Aritmética - ULA / unidade lógica e aritmética – ULA / ULA da CPU e a memória.\
 e) Unidade Central de Processamento - CPU, Unidade Lógica e Aritmética - ULA e Unidade de Controle / unidade lógica e aritmética – ULA / unidade de controle e a memória
 
-**Gabarito: D**
+**Gabarito: D ou E**
 
 ### Explicação da questão
 Barramento é um conjunto de linhas de comunicação que permitem a interligação entre dispositivos, como a CPU, a memória e outros periféricos. São as linhas de transmissão que transmitem as informações entre o processador, memória e todos os demais periféricos do computador.
@@ -201,8 +201,15 @@ e) NOR
 
 **Gabarito: B**
 
+### Explicação da questão
+- Porta OR: realiza a operação OR (ou) e por isso só será falsa se ambas as proposições forem falsas, caso contrário será verdadeiro.
+- Porta AND: realiza a operação AND (E), portanto uma multiplicação. Essa só será verdadeira se ambas entradas forem verdadeiras (1).
+- Porta NAND: realiza a operação NOT AND, ou seja, é um AND seguido de um inversor (NOT). Essa porta terá a tabela verdade falsa se ambas as entradas forem verdadeiras, o exato oposto da porta AND.
+- Porta NOR: realiza a operação NOT OR, ou seja, um OR seguido do inversor NOT. Nesse caso a porta será verdadeira se ambas entradas forem falsas.
+- Porta XOR: realiza a operação OU exclusivo, nesse caso será verdadeiro (1) se as entradas forem diferentes e será falsa (0) se as entradas forem iguais.
+
 # Questão
-Conforme Stallings (2013) a metodologia Pipeling é utilizada em processadores de grande porte e com o uso desta metodologia, é possível implementar arquitetura do tipo RISC, isto é, conjunto de instruções reduzidas. Sabendo-se deste conceito, é necessário saber da viabilidade da aplicação essa metodologia em servidores, afim de melhorar o desempenho (rapidez) no desempenho de atividades mais robustas envolvendo processamento de imagens de grande quantidade de pixels, para utilização de recursos de computação gráfica avançada.
+Conforme Stallings (2013) a metodologia Pipelining é utilizada em processadores de grande porte e com o uso desta metodologia, é possível implementar arquitetura do tipo RISC, isto é, conjunto de instruções reduzidas. Sabendo-se deste conceito, é necessário saber da viabilidade da aplicação essa metodologia em servidores, afim de melhorar o desempenho (rapidez) no desempenho de atividades mais robustas envolvendo processamento de imagens de grande quantidade de pixels, para utilização de recursos de computação gráfica avançada.
 
 Considerando o contexto, avalie as afirmativas a seguir:
 
@@ -229,4 +236,6 @@ e) I, II, III e IV.
 ### Explicação da questão
 - I = (Very Long Instruction Word (VLIW) or VLIW Machines. VLIW uses Instruction Level Parallelism) E (Instruction Level Parallelism (ILP) is used to refer to the architecture in which multiple operations can be performed parallelly in a particular process)
 - II E IV = Paralelismo é sobre a execução paralela de tarefas, ou seja, mais de uma por vez (de forma simultânea), a depender da quantidade de núcleos (cores) do processador. Quanto mais núcleos, mais tarefas paralelas podem ser executadas. É uma forma de distribuir processamento em mais de um núcleo.
-- III = Como tudo que temos, sempre evoluí.v
+- III = Como tudo que temos, sempre evolui.
+
+Pipeline é uma técnica de implementação de sistemas computacionais onde o processador consegue paralelizar a execução de instruções de modo a maximizar a vazão de instruções processadas. Essa técnica adiciona complexidade na criação desse tipo de processador mas garante processadores mais eficientes.
