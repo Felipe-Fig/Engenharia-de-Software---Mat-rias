@@ -116,4 +116,124 @@ a*b^5 = 16.000\
 = 2ˆ5 * (4 * 125)\
 = 2ˆ5 * 500
 
-O objetivo de fazer uma base elevada à 5 potência é pelo fato da função fornecida pelo problema ser elevada à "t". Como o problema me dá o t = 5, simplifiquei de forma que tivesse uma potência de 5 para poder comparar. Chegando à equacão em questão. 
+O objetivo de fazer uma base elevada à 5 potência é pelo fato da função fornecida pelo problema ser elevada à "t". Como o problema me dá o t = 5, simplifiquei de forma que tivesse uma potência de 5 para poder comparar. Chegando à equacão em questão.
+
+# Questão
+O cálculo de limites de funções pode ser empregado para um estudo mais específico de características de funções próximas a pontos de seus domínios, o comportamento para valores muito grandes ou muito pequenos de seus domínios, entre outras possibilidades.
+
+Em relação ao estudo de limites, analise as sentenças apresentadas a seguir:
+
+IMG001
+
+Está correto o que se afirma apenas em:
+
+**Gabarito: I e II estão corretas**
+
+### Explicação da questão
+Para realizar a conta basta substituir `x` pelo valor indicado no `lim`. Ao fazer verás que as primeiras duas assertivas estão corretas ao passo que a III está incorreta assim como a IV, que resulta em "conjunto vazio".
+
+# Questão
+O estudo dos limites de funções é imprescindível para o estudo de outros conceitos do campo do Cálculo Diferencial e Integral, como é o caso da continuidade de funções, por exemplo.
+
+Nesse sentido, considere a função definida por partes descrita a seguir:
+
+IMG002
+
+cujo domínio é dado pelo conjunto de números reais.
+
+Em relação a essa função, assinale a alternativa correta:
+
+**Gabarito: A função é descontínua em 3**
+
+### Explicação da questão
+Ao montar o gráfico vê-se que existe uma descontinuidade dos pontos plotados exatamente no valor 3. 
+
+# Questão
+Considere que uma placa metálica a ser instalada em um telhado tem o formato dado pela região, no plano cartesiano, limitada inferiormente pela função `f(x) = x² ­– 4x + 4` e superiormente pela função `g(x) = 2x + 4`, no intervalo [0,6].
+
+Qual é a área dessa placa?
+
+**Gabarito: 36 u**
+
+### Explicação da questão
+Solução questionável. Fiz numa calculadora e o resultado foi diverso de todas as opções apresentadas. Verifique ![aqui](https://www.symbolab.com/solver/area-between-curves-calculator/area%20%5Cint_%7B0%7D%5E%7B6%7D%20%5Cleft(2x%2B4%5Cright)-%5Cleft(-x%5E%7B2%7D-4x%2B4%5Cright)?or=input).
+
+IMG003
+
+> Solução encontrada na internet.
+
+Para encontrar a área da placa metálica limitada pelas funções f(x) e g(x) no intervalo [0, 6], você pode calcular a integral definida da diferença entre essas funções ao longo do intervalo. A integral definida representa a área sob a curva no plano cartesiano.
+
+Primeiro, encontre os pontos de interseção entre as funções f(x) e g(x) para determinar os limites da integral:
+
+f(x) = g(x)
+
+x² - 4x + 4 = 2x + 4
+
+Agora, resolvendo essa equação:
+
+x² - 4x + 4 - 2x - 4 = 0
+
+x² - 6x = 0
+
+x(x - 6) = 0
+
+Isso nos dá duas soluções: x = 0 e x = 6. Portanto, esses são os limites de integração.
+
+Agora, podemos calcular a área usando a integral definida:
+
+A = ∫[0, 6] (g(x) - f(x)) dx
+
+A = ∫[0, 6] (2x + 4 - (x² - 4x + 4)) dx
+
+A = ∫[0, 6] (2x + 4 - x² + 4x - 4) dx
+
+A = ∫[0, 6] (-x² + 6x) dx
+
+A = [- (x³ / 3) + 3x²] de 0 a 6
+
+Agora, aplicando os limites de integração:
+
+A = [-(6³ / 3) + 3(6²)] - [-(0³ / 3) + 3(0²)]
+
+A = [-(216 / 3) + 3(36)] - [0]
+
+A = [-72 + 108] - [0]
+
+A = 36 u²
+
+# Questão
+Seja a função de domínio real dada pela lei de formação:
+
+`f(x) = 2x³ – 6x² + 5`
+
+Podemos fazer um estudo a respeito das características dessa função considerando os conceitos envolvendo otimização.
+
+A respeito desse tema, julgue as seguintes afirmações, classificando-as como verdadeiras (V) ou falsas (F):
+
+(  ) A função f não admite pontos críticos.
+
+(  ) Os valores máximos locais são atingidos em x = -0,8, x = 1,2 e x = 2,7.
+
+(  ) A função admite um valor mínimo local quando x = 2.
+
+(  ) A função é decrescente no intervalo (0,2).
+
+Assinale a alternativa que apresenta a sequência correta:
+
+**Gabarito: F-F-V-V**
+
+### Explicação da questão
+
+# Questão
+O conceito de derivada pode ser interpretado de diferentes formas conforme sua aplicação, como, por exemplo, a indicação de taxa de variação, inclinação de reta tangente, entre outros.
+
+Considere a função de domínio real definida por:
+
+`f(x) = 4x³ - 3x² + 5x + 1`
+
+Qual é a taxa de variação da função f quando x = 3?
+
+**Gabarito: 95**
+
+### Explicação da questão
