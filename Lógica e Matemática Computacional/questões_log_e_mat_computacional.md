@@ -216,3 +216,165 @@ e) É uma tautologia.
 
 ### Explicação da questão
 Tautologia: é um resultado no qual todas as entradas possíveis de uma fórmula obtêm verdadeiro como resultado. Discordo da resposta que vi pela internet, a qual fala que o correto seria uma tautologia. Conforme a tabela-verdade apresentada, não se trata de uma tautologia.
+
+# Questão
+Na definição de proposição temos que é uma sentença declarativa, seja ela expressa de forma afirmativa ou negativa, na qual podemos atribuir um valor lógico "V" (verdadeiro) ou "F" (falso). Uma proposição também pode ser expressa por símbolos.\
+Ano: 2019 Banca: IDIB Órgão: CREMERJ Provas: IDIB - 2019 - CREMERJ (adaptado)\
+Proposição é um termo muito usado em lógica para descrever o conteúdo de afirmativas. Analise e julgue as frases a seguir:
+
+I. Aníbal é médico ou Bernardo é engenheiro.\
+II. Que lindo dia!\
+III. Todos os jogadores de futebol receberam medalha.\
+IV. Ele é advogado?
+
+Com relação a proposições, assinale a alternativa correta:
+
+**Gabarito: Apenas os itens I e III são proposições.**
+
+# Questão
+Os conectivos sentenciais correspondem a várias palavras nas linguagens naturais que servem para conectar proposições declarativas. Neste contexto assinale a alternativa CORRETA quanto aos conectivos.
+
+- Todas as alternativas estão corretas
+- A letra (V) corresponde à operação lógica DISJUNÇÃO. Equivale à palavra ou em seu sentido inclusivo. Em programação, a conjunção é também representada pela palavra AND.
+- A seta (->) corresponde à operação CONDICIONAL. Em português, corresponde à relação "se não ., então.
+- A dupla seta (<->) corresponde à operação bicondicional. Em português, corresponde à relação "se, e somente se.
+- O til (~) corresponde à operação lógica afirmativa. Alguns autores também utilizam o símbolo <- para designar afirmação.
+
+**Gabarito: A dupla seta (<->) corresponde à operação bicondicional. Em português, corresponde à relação "se, e somente se.**
+
+# Questão
+"O diagrama de Venn, também conhecido como diagrama de Venn-Euler, é uma maneira de representar graficamente um conjunto, para isso utilizamos uma linha fechada que não possui auto-intersecção e representamos os elementos do conjunto no interior dessa linha. A ideia do diagrama é facilitar o entendimento nas operações básicas de conjuntos, como: relação inclusão e pertinência, união e intersecção, diferença e conjunto complementar". Neste contexto assinale a alternativa INCORRETA, que se refere ao diagrama Venn.
+
+- Diagrama de Venn é uma maneira de apresentar graficamente um conjunto.
+- Os diagramas de Venn consistem em círculos (que podem estar intersectados), os quais representam os conjuntos. No interior dos círculos são listados os elementos do conjunto.
+- O Diagrama de Venn, além ser um esquema para ajudar o raciocínio, também consiste em uma representação diagramática capaz de atender a todas as possíveis relações lógicas entre as classes em estudo, sendo úteis, inclusive, para demonstrar relações arbitrárias entre conjuntos.
+- Todas as alternativas estão incorretas;
+- O diagrama de Venn é uma forma gráfica que não representa os elementos de um conjunto.
+
+**Gabarito: está incorreta: O diagrama de Venn é uma forma gráfica que não representa os elementos de um conjunto.**
+
+# Questão
+Considere as seguintes afirmativas sobre a tabela verdade:
+
+I - A tabela verdade é uma tabela que lista todas as possibilidades de valores lógicos de uma proposição composta, para cada combinação possível dos valores lógicos de suas proposições simples.\
+II - O conectivo lógico "e" (AND) resulta em verdadeiro apenas se ambas as proposições simples são verdadeiras.\
+III - O conectivo lógico "ou" (OR) resulta em falso apenas se ambas as proposições simples são falsas.\
+IV - O conectivo lógico "negação" (NOT) inverte o valor lógico da proposição simples.\
+V - A tabela verdade é uma ferramenta útil para avaliar a validade de argumentos lógicos.\
+Assinale a alternativa correta que contém todas as afirmativas verdadeiras
+
+**Gabarito: todas estão corretas.**
+
+# Questão
+Dada a necessidade de se obter resultados lógicos da combinação de proposições e conectores, um dos métodos mais utilizados é o método da Tabela Verdade. Por definição, a Tabela da Verdade é um método exaustivo de geração de valorações para uma dada fórmula (SILVA; FINGER; MELO, 2017). Entendemos por fórmula a composição de proposições e conectores lógicos, por exemplo, p e q.
+Ano: 2015 Banca: CPCON Órgão: Prefeitura de Catolé do Rocha - PB
+
+Dizer qual a proposição que satisfaz a tabela-verdade seguinte:
+
+| p | q | ? |
+|---|---|---|
+|F|F|V|
+|F|V|E|
+|V|F|V|
+|V|V|V|
+
+**Gabarito: questão completamente errada e não possui resposta. Marquei (p V q) pois na internet estava assim.**
+
+# Questão
+Análise combinatória é a parte da matemática que estuda o número de possibilidades de ocorrência de um determinado acontecimento (evento) sem, necessariamente, descrever todas as possibilidades.
+
+Renata possui uma loja de roupas infantis masculinas. Ela terá que colocar 1 manequim na vitrine. O manequim vestirá camiseta, shorts e tênis. Ela possui 6 modelos de camisetas, 4 modelos de shorts e 5 modelos de tênis. Quantas combinações de roupas ela pode fazer para vestir o manequim?
+
+**Gabarito: 120 possibilidades**
+
+# Questão
+Análise combinatória é a parte da matemática que estuda o número de possibilidades de ocorrência de um determinado acontecimento(evento) sem, necessariamente, descrever todas as possibilidades.
+
+Leda necessita organizar seus estudos. Ela precisa ter os livros texto da disciplina de lógica computacional, as tele aulas e artigos. Ela possui 2 livros texto, 4 tele aulas e 8 artigos da disciplina de lógica computacional. Ela quer estudar um pouco a cada dia. Quantas combinações desse material ela pode fazer?
+
+**Gabarito: 64**
+
+# Questão
+Na definição de proposição temos que é uma sentença declarativa, seja ela expressa de forma afirmativa ou negativa, na qual podemos atribuir um valor lógico "V" (verdadeiro) ou "F"(falso). Uma proposição também pode ser expressa por símbolos.\
+Provas: VUNESP - 2019 - TJ-SP - Administrador Judiciário
+
+Se Milton ou Tomas, apenas um deles, é administrador judiciário, então Valéria é policial. Sabendo-se que Valéria não é policial, conclui-se, corretamente, que:
+
+**Gabarito: Milton é administrador judiciário se e somente se Tomas também for.**
+
+# Questão
+Conjuntos como conhecemos são uma coleção ou grupos de objetos ou símbolos aos quais chamamos de elementos.\
+Considere os conjuntos A = {a,b,c,] e B = {d,e]. Podemos afirmar que A U B é, sendo U o símbolo de União:
+
+**Gabarito: A U B = {a, b, c, d, e}**
+
+# Questão
+Em Teoria de Conjuntos há várias operações que podem ser realizadas. Podemos, por exemplo, somar ou multiplicar os elementos de conjuntos, reuni-los, considerar apenas os elementos comuns, enfim, há uma série de operações que podem ser feitas.\
+Em uma pesquisa realizada com os professores da COGNA, a respeito da preferência deles em relação ao jornal da cidade, obtivemos os seguintes resultados:
+
+230 professores preferem o jornal A\
+180 professores preferem o jornal B\
+30 professores alegaram preferir os dois jornais.\
+50 professores não gostam de nenhum dos dois jornais.
+
+Com base nos dados do problema, podemos dizer que o número de professores que preferem apenas o jornal A é:
+
+**Gabarito: 200 professores**
+
+# Questão
+'Uma sequência de demonstração em um sistema de lógica formal é uma sequência de fórmula bem-formuladas (fbfs) que são hipóteses ou que podem ser deduzidas de fbfs anteriores na sequência pelas regras de dedução do sistema".
+
+Dado o argumento: "Se Marina for a autora, então o livro será de ficção. Mas o livro não é de ficção.
+
+Portanto, Marina não é a autora", escolha a alternativa que representa a regra de dedução lógica que pode ser usada para representá-lo:
+
+**Gabarito: Modus Tollens**
+
+# Questão
+Análise combinatória é a parte da matemática que estuda o número de possibilidades de ocorrência de um determinado acontecimento (evento) sem, necessariamente, descrever todas as possibilidades.
+
+No vão de São Paulo a Roma, o viajante pode escolher a composição de suas refeições, sendo elas 2 opções de entrada, 3 opções de prato e 8 opções de sobremesa.\
+Quantas combinações de cardápio o viajante terá?
+
+**Gabarito: 48**
+
+# Questão
+Analise as afirmativas abaixo sobre lógica e tabela verdade e marque a alternativa falsa:
+- A tabela verdade é uma ferramenta útil para avaliar a validade de argumentos lógicos.
+- A conjunção de duas proposições é verdadeira apenas quando ambas são verdadeiras.
+- O conectivo lógico "se... então" expressa uma relação de implicação entre duas proposições.
+- A lógica proposicional é um ramo da lógica que lida com proposições ou declarações declarativas que podem ser verdadeiras ou falsas.
+- A negação de uma proposição é dada pelo operador lógico "ou".
+
+**Gabarito: É falso: A negação de uma proposição é dada pelo operador lógico "ou".**
+
+# Questão
+Em Teoria dos Conjuntos, as operações com as quais trabalhamos mais frequentemente são as operações de união, intersecção e diferença de conjuntos. Uma nova relação que aprenderemos nesta seção é a operação denominada complemento ou complementar de um conjunto. O complemento de um conjunto é um conceito estreitamente relacionado com a operação de diferença de conjuntos. Neste contexto assinale a alternativa INCORRETA, quanto a complementos de conjuntos.
+
+- A) Seja A={1, 2,,3,4,5,6,7,8,9,10} e B ={1,2,3,5,8,9} . O complemento de B em relação a A consiste no coniunto constituído por todos os elementos pertencentes a A que não pertencem a B.
+- Seja A={1, 2,3,4,5,6,7,8,9,10) e B ={1,2,3,5,8,9) . Podemos dizer que o complemento de B em relação a A não consiste no conjunto formado por elementos que pertencem exclusivamente a A, quando comparados com os elementos de B.
+- Todas as alternativas estão incorretas.
+- D) Seja A=(1, 2,3,4,5,6,7,8,9,10} e B ={1,2,3,5,8,9) O complemento de B em relação a A consiste no conjunto constituído por todos os elementos pertencentes a A que não pertencem a B. Temos, portanto: {4,6,7,10}.
+- Em complementos de conjuntos, é necessário ter em mente um conjunto mais abrangente (U) sobre o qual estabeleceremos a relação de complementaridade.
+
+**Gabarito: outra questão mal formulada, A e D estão corretas.**
+
+# Questão
+A tabela verdade para a proposição lógica "p implica q" (p -> q) é a mesma que a tabela verdade para a proposição lógica "q implica p" (q -> p).
+
+- Nenhuma das alternativas
+- Depende dos operadores lógicos utilizados
+- Depende das variáveis de entrada p e q
+- Verdadeiro
+- Falso
+
+**Gabarito: Falso**
+
+# Questão
+Conjuntos podem ser definidos como coleções não ordenadas de objetos que podem ser, de alguma forma, relacionados (FERREIRA, 2001).
+Considere os conjuntos A = {11, 22, 33, 44, 55}, B = {11, 13, 15, 17, 19} е C = {5, 10, 15, 20, 25, 30}.
+Representado pelo símbolo U a união e pela dificuldade de representar o símbolo de interseção, deixei escrito em caixa alta.
+
+Podemos afirmar que o conjunto formado por (A INTERSEÇÃO B) U C é:
+
+**Gabarito: (A INTERSEÇÃO B) U C = {5, 10, 11, 15, 20, 25, 30}.**
